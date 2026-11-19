@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 08:43 UTC",
- "count": 331,
+ "updated": "2026-11-19 12:03 UTC",
+ "count": 334,
  "jobs": [
   {
    "id": "b053fd620d",
@@ -33,6 +33,22 @@
    "level": "Junior / Entry",
    "source": "Glassdoor",
    "link": "https://www.glassdoor.ca/job-listing/j?jl=1010330185130"
+  },
+  {
+   "id": "34d67d5d67",
+   "title": "Software Developer",
+   "company": "Ericsson",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 70,000 - 87,500 yearly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4492111206"
   },
   {
    "id": "8a612b1da7",
@@ -147,20 +163,20 @@
    "link": "https://www.linkedin.com/jobs/view/4491377239"
   },
   {
-   "id": "f3d0b0352b",
-   "title": "Software Applications Associate Specialist",
-   "company": "General Dynamics Land Systems",
-   "city": "London",
+   "id": "f34726fd44",
+   "title": "Software Engineer",
+   "company": "Wipro",
+   "city": "Toronto",
    "province": "ON",
-   "location": "London, ON, Canada",
+   "location": "Toronto, ON, Canada",
    "workplace": "On-site",
    "posted": "2026-11-19",
-   "first_seen": "2026-11-18",
-   "pay": "",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 60 - 70 hourly",
    "experience": "1+ years",
-   "level": "Junior / Entry",
+   "level": "",
    "source": "Indeed",
-   "link": "https://generaldynamics-ca-careers.ttcportals.com/jobs/18494376-software-applications-associate-specialist?tm_job=5716&tm_event=view&tm_company=48367"
+   "link": "https://careers.wipro.com/job/Software-Engineer/219485-en_US"
   },
   {
    "id": "dc4e7c5d56",
@@ -225,22 +241,6 @@
    "level": "",
    "source": "Glassdoor",
    "link": "https://www.glassdoor.ca/job-listing/j?jl=1010328768979"
-  },
-  {
-   "id": "34d67d5d67",
-   "title": "Software Developer",
-   "company": "Ericsson",
-   "city": "Toronto",
-   "province": "ON",
-   "location": "Toronto, Ontario, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "pay": "",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4492111206"
   },
   {
    "id": "e02cc09c5a",
@@ -515,6 +515,22 @@
    "link": "https://www.linkedin.com/jobs/view/4491758620"
   },
   {
+   "id": "e9e382e685",
+   "title": "FY27 Intern - GPU Compiler Development Internship - Canada (4 months)",
+   "company": "Qualcomm",
+   "city": "Markham",
+   "province": "ON",
+   "location": "Markham, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 54,600 - 103,350 yearly",
+   "experience": "1+ years",
+   "level": "Internship",
+   "source": "Indeed",
+   "link": "https://app.eightfold.ai/careers/job/446722198182?domain=qualcomm.com"
+  },
+  {
    "id": "fc37fa9c1b",
    "title": "Full Stack/Backend Developer | Non-Salaried/Project-based (FSBE-041)",
    "company": "Potenco",
@@ -625,6 +641,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4491440929"
+  },
+  {
+   "id": "f3d0b0352b",
+   "title": "Software Applications Associate Specialist",
+   "company": "General Dynamics Land Systems",
+   "city": "London",
+   "province": "ON",
+   "location": "London, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "pay": "",
+   "experience": "1+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://generaldynamics-ca-careers.ttcportals.com/jobs/18494376-software-applications-associate-specialist?tm_job=5716&tm_event=view&tm_company=48367"
   },
   {
    "id": "72719b1257",
@@ -803,22 +835,6 @@
    "link": "https://www.glassdoor.ca/job-listing/j?jl=1010330119045"
   },
   {
-   "id": "0eb7a94f7d",
-   "title": "Full Stack Software Engineer",
-   "company": "Eclipse Automation",
-   "city": "Cambridge",
-   "province": "ON",
-   "location": "Cambridge, ON, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-17",
-   "pay": "CAD 95,000 - 115,000 yearly",
-   "experience": "1+ years",
-   "level": "",
-   "source": "Indeed",
-   "link": "https://jobs.dayforcehcm.com/en-CA/eclipse/CANDIDATEPORTAL/jobs/4314"
-  },
-  {
    "id": "c9d7809bda",
    "title": "Programmer analyst, System and infrastructure operations, maintenance and development",
    "company": "Desjardins",
@@ -945,6 +961,22 @@
    "level": "Internship",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4467128219"
+  },
+  {
+   "id": "bc523962ea",
+   "title": "Coding Teacher - Part Time",
+   "company": "Best Brains Learning Center, Guelph",
+   "city": "Guelph",
+   "province": "ON",
+   "location": "Guelph, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 22 - 25 hourly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://ca.indeed.com/viewjob?jk=2c257e77e86d3804"
   },
   {
    "id": "d43e4222ef",
@@ -1217,6 +1249,22 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4491587480"
+  },
+  {
+   "id": "0eb7a94f7d",
+   "title": "Full Stack Software Engineer",
+   "company": "Eclipse Automation",
+   "city": "Cambridge",
+   "province": "ON",
+   "location": "Cambridge, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-17",
+   "pay": "CAD 95,000 - 115,000 yearly",
+   "experience": "1+ years",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://jobs.dayforcehcm.com/en-CA/eclipse/CANDIDATEPORTAL/jobs/4314"
   },
   {
    "id": "61317503fd",
@@ -1561,7 +1609,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "Remote",
+   "workplace": "On-site",
    "posted": "2026-11-17",
    "first_seen": "2026-11-02",
    "pay": "",
@@ -1740,7 +1788,7 @@
    "workplace": "On-site",
    "posted": "2026-11-16",
    "first_seen": "2026-11-16",
-   "pay": "USD 75,000 - 124,000 yearly",
+   "pay": "CAD 75,000 - 124,000 yearly",
    "experience": "",
    "level": "Junior / Entry",
    "source": "Linkedin",
