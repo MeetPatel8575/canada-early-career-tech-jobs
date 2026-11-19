@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19 05:06 UTC",
+ "updated": "2026-11-19 05:07 UTC",
  "count": 323,
  "jobs": [
   {
@@ -16,7 +16,7 @@
    "experience": "",
    "level": "",
    "source": "Indeed",
-   "link": "https://career4.successfactors.com/career?company=Purolator&career_ns=job_listing&career_job_req_id=70202&lang=en_US&jobPipeline=Indeed"
+   "link": "https://career4.successfactors.com/career?company=Purolator&career_ns=job_listing&career_job_req_id=70202&lang=en_US"
   },
   {
    "id": "a3534695ec",
@@ -791,7 +791,7 @@
    "title": "Java Software Engineer",
    "company": "HiredBuddy",
    "city": "Canada",
-   "province": "ON",
+   "province": "",
    "location": "Canada",
    "workplace": "Remote",
    "posted": "2026-11-18",
