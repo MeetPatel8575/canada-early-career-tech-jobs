@@ -2,9 +2,9 @@
 
 Junior, new grad, entry-level, intern and co-op software, data and IT roles in Canada, with a focus on Kitchener-Waterloo-Cambridge and the Greater Toronto Area. Many come straight from company careers pages, including small local companies that don't post on LinkedIn.
 
-**323 open roles** · updated 2026-11-19 05:07 UTC · 🆕 = first seen in the last 48 hours
+**324 open roles** · updated 2026-11-19 06:23 UTC · 🆕 = first seen in the last 48 hours
 
-- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (17) · [Greater Toronto Area](#greater-toronto-area) (118) · [Remote in Canada](#remote-in-canada) (20) · [Elsewhere in Canada](#elsewhere-in-canada) (168)
+- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (17) · [Greater Toronto Area](#greater-toronto-area) (119) · [Remote in Canada](#remote-in-canada) (20) · [Elsewhere in Canada](#elsewhere-in-canada) (168)
 - Spreadsheet: [`jobs.csv`](jobs.csv) · JSON: [`jobs.json`](jobs.json) · recently closed: [`archive.csv`](archive.csv)
 - Google Sheets: in an empty sheet, type `=IMPORTDATA("https://raw.githubusercontent.com/MeetPatel8575/canada-early-career-tech-jobs/main/jobs.csv")` in cell A1. It refreshes about every hour.
 
@@ -137,6 +137,7 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Robinhood | Software Engineer, International Expansion | Toronto, ON | 2026-11-03 |  | Greenhouse | [Apply](https://boards.greenhouse.io/robinhood/jobs/8207701?t=gh_src%3D&gh_jid=8207701) |
 | Stripe | Master's Machine Learning Engineer, Intern | Toronto, ON | 2026-10-30 |  | Greenhouse | [Apply](https://stripe.com/jobs/search?gh_jid=8333122) |
 | Stripe | PhD Machine Learning Engineer, Intern | Toronto, ON | 2026-10-30 |  | Greenhouse | [Apply](https://stripe.com/jobs/search?gh_jid=8328664) |
+| SOTI | 🆕 Associate Software Development Engineer in Test (SDET) | Mississauga, ON (Hybrid) | 2026-10-29 |  | Company careers page | [Apply](https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Software-Development-Engineer-in-Test--SDET-_R10624) |
 | Mongodb | Associate Technical Services Engineer | Toronto, ON | 2026-10-09 |  | Greenhouse | [Apply](https://www.mongodb.com/careers/job?gh_jid=8234520) |
 | Robinhood | Software Engineer, Web3 Backend | Toronto, ON | 2026-10-07 |  | Greenhouse | [Apply](https://boards.greenhouse.io/robinhood/jobs/8258307?t=gh_src%3D&gh_jid=8258307) |
 | Tenstorrent | Low-Level Software Engineer, LLK | Toronto, ON | 2026-10-07 |  | Greenhouse | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/5260226007) |

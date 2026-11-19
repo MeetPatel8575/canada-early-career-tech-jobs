@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 05:07 UTC",
- "count": 323,
+ "updated": "2026-11-19 06:23 UTC",
+ "count": 324,
  "jobs": [
   {
    "id": "b053fd620d",
@@ -4673,6 +4673,22 @@
    "level": "Junior / Entry",
    "source": "Workday",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379"
+  },
+  {
+   "id": "6fd64c9634",
+   "title": "Associate Software Development Engineer in Test (SDET)",
+   "company": "SOTI",
+   "city": "Mississauga",
+   "province": "ON",
+   "location": "Mississauga, Canada – Meadowvale Office (HQ)",
+   "workplace": "Hybrid",
+   "posted": "2026-10-29",
+   "first_seen": "2026-11-19",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Company careers page",
+   "link": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Software-Development-Engineer-in-Test--SDET-_R10624"
   },
   {
    "id": "24a9a7e025",
