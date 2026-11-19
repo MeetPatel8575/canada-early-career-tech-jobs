@@ -1,0 +1,15 @@
+name: Suggest a company
+description: A company in Canada that hires junior developers and should be checked
+title: "Company: "
+body:
+  - type: input
+    id: company
+    attributes: {label: Company name}
+    validations: {required: true}
+  - type: input
+    id: careers
+    attributes: {label: Careers page link, placeholder: "https://example.com/careers"}
+    validations: {required: true}
+  - type: input
+    id: city
+    attributes: {label: City}

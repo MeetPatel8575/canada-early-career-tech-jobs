@@ -1,0 +1,17 @@
+name: Report a posting
+description: A role that is closed, not early career, not in Canada, or has a broken link
+title: "Posting: "
+body:
+  - type: input
+    id: link
+    attributes: {label: Link to the posting}
+    validations: {required: true}
+  - type: dropdown
+    id: problem
+    attributes:
+      label: What's wrong
+      options: [It's closed, Not early career, Not in Canada, Broken link, Something else]
+    validations: {required: true}
+  - type: textarea
+    id: details
+    attributes: {label: Anything else}
