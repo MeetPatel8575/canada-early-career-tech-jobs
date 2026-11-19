@@ -2,9 +2,9 @@
 
 Junior, new grad, entry-level, intern and co-op software, data and IT roles in Canada, with a focus on Kitchener-Waterloo-Cambridge and the Greater Toronto Area. Many come straight from company careers pages, including small local companies that don't post on LinkedIn.
 
-**340 open roles** · updated 2026-11-19 14:05 UTC · 🆕 = first seen in the last 48 hours
+**341 open roles** · updated 2026-11-19 15:25 UTC · 🆕 = first seen in the last 48 hours
 
-- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (19) · [Greater Toronto Area](#greater-toronto-area) (121) · [Remote in Canada](#remote-in-canada) (20) · [Elsewhere in Canada](#elsewhere-in-canada) (180)
+- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (20) · [Greater Toronto Area](#greater-toronto-area) (121) · [Remote in Canada](#remote-in-canada) (20) · [Elsewhere in Canada](#elsewhere-in-canada) (180)
 - Spreadsheet: [`jobs.csv`](jobs.csv) · JSON: [`jobs.json`](jobs.json) · recently closed: [`archive.csv`](archive.csv)
 - Google Sheets: in an empty sheet, type `=IMPORTDATA("https://raw.githubusercontent.com/MeetPatel8575/canada-early-career-tech-jobs/main/jobs.csv")` in cell A1. It refreshes about every hour.
 
@@ -16,6 +16,7 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 |---|---|---|---|---|---|---|
 | Google | 🆕 Étudiant-chercheur, baccalauréat ou maîtrise, automne 2026 | Waterloo, ON | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4443196282) |
 | Sonova | 🆕 Hardware Integration Developer | Kitchener, ON (Hybrid) | 2026-11-19 | CAD 91,200 - 114,000 yearly | Indeed | [Apply](https://career5.successfactors.eu/career?career_ns=job_listing&company=Sonova&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=166470&selected_lang=en_US&browserTimeZone=America%2FChicago&_s.crb=K7JIQ2B8ETgdutyYNmWPsOSmX8Zlyhhd87NXXXTBdK8%3D) |
+| Canadian Solar | 🆕 Data Engineering Intern | Kitchener, ON | 2026-11-19 |  | Workday | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603) |
 | Tigercat Industries | 🆕 Weld Robot Programmer | Cambridge, ON | 2026-11-18 | CAD 32 - 38 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010328768979) |
 | McAfee | 🆕 Software Developer in Test - Core Protections | Waterloo, ON | 2026-11-18 | CAD 85,580 - 115,780 yearly | Indeed | [Apply](https://careers.mcafee.com/jobs/1829/job) |
 | Protocase Inc./45Drives Ltd. | 🆕 45Drives Software Developer | Kitchener, ON | 2026-11-18 | CAD 105,000 - 135,000 yearly | Indeed | [Apply](https://protocase.bamboohr.com/careers/459?postedDate=2026-11-18) |

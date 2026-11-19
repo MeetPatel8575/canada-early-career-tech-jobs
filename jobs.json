@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-19 14:05 UTC",
- "count": 340,
+ "updated": "2026-11-19 15:25 UTC",
+ "count": 341,
  "jobs": [
   {
    "id": "b053fd620d",
@@ -241,6 +241,22 @@
    "level": "",
    "source": "Indeed",
    "link": "https://inizio.wd3.myworkdayjobs.com/Ashfield_Canada/job/Montreal/Software-Developer---SQL---Application-Support--Global-_JR37110"
+  },
+  {
+   "id": "d72f27935d",
+   "title": "Data Engineering Intern",
+   "company": "Canadian Solar",
+   "city": "Kitchener",
+   "province": "ON",
+   "location": "Kitchener, ON",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "pay": "",
+   "experience": "",
+   "level": "Internship",
+   "source": "Workday",
+   "link": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603"
   },
   {
    "id": "dc4e7c5d56",
