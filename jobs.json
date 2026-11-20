@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20 17:09 UTC",
+ "updated": "2026-11-20 18:29 UTC",
  "count": 397,
  "jobs": [
   {
@@ -1025,22 +1025,6 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4458028036"
-  },
-  {
-   "id": "24a9a7e025",
-   "title": "Routing/IP Software Engineer - New Grad",
-   "company": "Ciena",
-   "city": "Ottawa",
-   "province": "ON",
-   "location": "Ottawa",
-   "workplace": "On-site",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-02",
-   "pay": "",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Workday",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006"
   },
   {
    "id": "234be6db0c",
@@ -5857,6 +5841,22 @@
    "level": "Junior / Entry",
    "source": "Workday",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379"
+  },
+  {
+   "id": "24a9a7e025",
+   "title": "Routing/IP Software Engineer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-10-28",
+   "first_seen": "2026-11-02",
+   "pay": "",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Workday",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006"
   },
   {
    "id": "a89b75bae1",
