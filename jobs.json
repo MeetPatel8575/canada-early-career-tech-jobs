@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 06:06 UTC",
- "count": 381,
+ "updated": "2026-11-20 08:25 UTC",
+ "count": 385,
  "jobs": [
   {
    "id": "1c6727b0e8",
@@ -195,6 +195,54 @@
    "link": "https://www.linkedin.com/jobs/view/4491697002"
   },
   {
+   "id": "97d31396ac",
+   "title": "Software Developer",
+   "company": "Trend Micro Inc.",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "pay": "CAD 95,000 - 115,000 yearly",
+   "experience": "1+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010451"
+  },
+  {
+   "id": "84edc6209a",
+   "title": "Assistant Technical Developer",
+   "company": "lululemon",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, BC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "pay": "CAD 59,800 - 78,500 yearly",
+   "experience": "0+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://careers.lululemon.com/en_US/careers/JobDetail/Assistant-Technical-Developer/65166"
+  },
+  {
+   "id": "362eb07440",
+   "title": "Cabinet Design & CNC Programmer (Mozaik)",
+   "company": "Thomas Philips Woodworking",
+   "city": "Remote (Canada)",
+   "province": "",
+   "location": "Remote, Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "pay": "CAD 25 - 50 hourly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://ca.indeed.com/viewjob?jk=e236cdbc175a3bb2"
+  },
+  {
    "id": "b053fd620d",
    "title": "Technology Developer",
    "company": "Purolator",
@@ -225,6 +273,22 @@
    "level": "Junior / Entry",
    "source": "Glassdoor",
    "link": "https://www.glassdoor.ca/job-listing/j?jl=1010330185130"
+  },
+  {
+   "id": "34d67d5d67",
+   "title": "Software Developer",
+   "company": "Ericsson",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 8,500 - 11,500 monthly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4492111206"
   },
   {
    "id": "8a612b1da7",
@@ -401,6 +465,22 @@
    "level": "Internship",
    "source": "Workday",
    "link": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603"
+  },
+  {
+   "id": "75180347c8",
+   "title": "Freelance PLC Programmer",
+   "company": "SNBB Solutions Inc.",
+   "city": "Ontario",
+   "province": "ON",
+   "location": "Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 40 - 50 hourly",
+   "experience": "",
+   "level": "",
+   "source": "Glassdoor",
+   "link": "https://www.glassdoor.ca/job-listing/j?jl=1010329843190"
   },
   {
    "id": "3c47fbbc9f",
@@ -601,7 +681,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "Hybrid",
+   "workplace": "On-site",
    "posted": "2026-11-19",
    "first_seen": "2026-11-19",
    "pay": "",
@@ -673,38 +753,6 @@
    "level": "",
    "source": "Indeed",
    "link": "https://apply.workable.com/j/AEC2874585"
-  },
-  {
-   "id": "f3d0b0352b",
-   "title": "Software Applications Associate Specialist",
-   "company": "General Dynamics Land Systems",
-   "city": "London",
-   "province": "ON",
-   "location": "London, ON, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-18",
-   "pay": "CAD 48,000 - 73,800 yearly",
-   "experience": "1+ years",
-   "level": "Junior / Entry",
-   "source": "Indeed",
-   "link": "https://generaldynamics-ca-careers.ttcportals.com/jobs/18494376-software-applications-associate-specialist?tm_job=5716&tm_event=view&tm_company=48367"
-  },
-  {
-   "id": "719513c9d9",
-   "title": "45Drives Software Developer",
-   "company": "Protocase Inc./45Drives Ltd.",
-   "city": "Kitchener",
-   "province": "ON",
-   "location": "Kitchener, ON, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-18",
-   "pay": "CAD 105,000 - 135,000 yearly",
-   "experience": "",
-   "level": "",
-   "source": "Indeed",
-   "link": "https://protocase.bamboohr.com/careers/459?postedDate=2026-11-18"
   },
   {
    "id": "dc4e7c5d56",
@@ -793,7 +841,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "Remote",
+   "workplace": "On-site",
    "posted": "2026-11-19",
    "first_seen": "2026-11-02",
    "pay": "",
@@ -883,22 +931,6 @@
    "link": "https://www.glassdoor.ca/job-listing/j?jl=1010328768979"
   },
   {
-   "id": "34d67d5d67",
-   "title": "Software Developer",
-   "company": "Ericsson",
-   "city": "Toronto",
-   "province": "ON",
-   "location": "Toronto, Ontario, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "pay": "CAD 8,500 - 11,500 monthly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4492111206"
-  },
-  {
    "id": "e02cc09c5a",
    "title": "Développeur d’applications / Software developer",
    "company": "Airbus",
@@ -961,22 +993,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4468276143"
-  },
-  {
-   "id": "61dc387d83",
-   "title": "Student Intern, Salesforce Developer 1",
-   "company": "Celestica",
-   "city": "Toronto",
-   "province": "ON",
-   "location": "Toronto, Canada",
-   "workplace": "Hybrid",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "pay": "CAD 23 - 30 hourly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Glassdoor",
-   "link": "https://www.glassdoor.ca/job-listing/j?jl=1010328781178"
   },
   {
    "id": "9f6dd1e588",
@@ -1251,22 +1267,6 @@
    "link": "https://www.linkedin.com/jobs/view/4492200575"
   },
   {
-   "id": "75180347c8",
-   "title": "Freelance PLC Programmer",
-   "company": "SNBB Solutions Inc.",
-   "city": "Ontario",
-   "province": "ON",
-   "location": "Ontario, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-18",
-   "first_seen": "2026-11-19",
-   "pay": "CAD 40 - 50 hourly",
-   "experience": "",
-   "level": "",
-   "source": "Glassdoor",
-   "link": "https://www.glassdoor.ca/job-listing/j?jl=1010329843190"
-  },
-  {
    "id": "e871c22638",
    "title": "202611-3121 - Web Systems Developer",
    "company": "Workplace Safety & Prevention Services",
@@ -1395,6 +1395,22 @@
    "link": "https://www.linkedin.com/jobs/view/4491440929"
   },
   {
+   "id": "f3d0b0352b",
+   "title": "Software Applications Associate Specialist",
+   "company": "General Dynamics Land Systems",
+   "city": "London",
+   "province": "ON",
+   "location": "London, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "pay": "CAD 48,000 - 73,800 yearly",
+   "experience": "1+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://generaldynamics-ca-careers.ttcportals.com/jobs/18494376-software-applications-associate-specialist?tm_job=5716&tm_event=view&tm_company=48367"
+  },
+  {
    "id": "72719b1257",
    "title": "Software Developer in Test - Core Protections",
    "company": "McAfee",
@@ -1425,6 +1441,22 @@
    "level": "",
    "source": "Indeed",
    "link": "https://jobs.citi.com/job/mississauga/java-backend-developer/287/103482430944"
+  },
+  {
+   "id": "719513c9d9",
+   "title": "45Drives Software Developer",
+   "company": "Protocase Inc./45Drives Ltd.",
+   "city": "Kitchener",
+   "province": "ON",
+   "location": "Kitchener, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-18",
+   "pay": "CAD 105,000 - 135,000 yearly",
+   "experience": "",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://protocase.bamboohr.com/careers/459?postedDate=2026-11-18"
   },
   {
    "id": "d674a4d056",
@@ -1603,6 +1635,22 @@
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750"
   },
   {
+   "id": "c283ee6d07",
+   "title": "AI Engineer",
+   "company": "Frontier Dental CA",
+   "city": "Markham",
+   "province": "ON",
+   "location": "Markham, Ontario, Canada",
+   "workplace": "Hybrid",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-02",
+   "pay": "CAD 60,000 - 65,000 yearly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4476825708"
+  },
+  {
    "id": "d44182f764",
    "title": "Java Software Engineer",
    "company": "HiredBuddy",
@@ -1649,6 +1697,22 @@
    "level": "Junior / Entry",
    "source": "Indeed",
    "link": "https://grnh.se/a71105zr3us"
+  },
+  {
+   "id": "61dc387d83",
+   "title": "Student Intern, Salesforce Developer 1",
+   "company": "Celestica",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Canada",
+   "workplace": "Hybrid",
+   "posted": "2026-11-17",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 23 - 30 hourly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Glassdoor",
+   "link": "https://www.glassdoor.ca/job-listing/j?jl=1010328781178"
   },
   {
    "id": "5ba114ee53",
@@ -2329,7 +2393,7 @@
    "city": "Montreal",
    "province": "QC",
    "location": "Montreal, Quebec, Canada",
-   "workplace": "Hybrid",
+   "workplace": "On-site",
    "posted": "2026-11-17",
    "first_seen": "2026-11-05",
    "pay": "",
@@ -2345,7 +2409,7 @@
    "city": "Montreal",
    "province": "QC",
    "location": "Montreal, Quebec, Canada",
-   "workplace": "Hybrid",
+   "workplace": "On-site",
    "posted": "2026-11-17",
    "first_seen": "2026-11-05",
    "pay": "",

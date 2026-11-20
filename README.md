@@ -2,9 +2,9 @@
 
 Junior, new grad, entry-level, intern and co-op software, data and IT roles in Canada, with a focus on Kitchener-Waterloo-Cambridge and the Greater Toronto Area. Many come straight from company careers pages, including small local companies that don't post on LinkedIn.
 
-**381 open roles** · updated 2026-11-20 06:06 UTC · 🆕 = first seen in the last 48 hours
+**385 open roles** · updated 2026-11-20 08:25 UTC · 🆕 = first seen in the last 48 hours
 
-- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (21) · [Greater Toronto Area](#greater-toronto-area) (130) · [Remote in Canada](#remote-in-canada) (31) · [Elsewhere in Canada](#elsewhere-in-canada) (199)
+- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (21) · [Greater Toronto Area](#greater-toronto-area) (131) · [Remote in Canada](#remote-in-canada) (32) · [Elsewhere in Canada](#elsewhere-in-canada) (201)
 - Spreadsheet: [`jobs.csv`](jobs.csv) · JSON: [`jobs.json`](jobs.json) · recently closed: [`archive.csv`](archive.csv)
 - Google Sheets: in an empty sheet, type `=IMPORTDATA("https://raw.githubusercontent.com/MeetPatel8575/canada-early-career-tech-jobs/main/jobs.csv")` in cell A1. It refreshes about every hour.
 
@@ -18,9 +18,9 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Sonova | 🆕 Hardware Integration Developer | Kitchener, ON (Hybrid) | 2026-11-19 | CAD 91,200 - 114,000 yearly | Indeed | [Apply](https://career5.successfactors.eu/career?career_ns=job_listing&company=Sonova&navBarLevel=JOB_SEARCH&rcm_site_locale=en_US&career_job_req_id=166470&selected_lang=en_US&browserTimeZone=America%2FChicago&_s.crb=K7JIQ2B8ETgdutyYNmWPsOSmX8Zlyhhd87NXXXTBdK8%3D) |
 | Canadian Solar | 🆕 Data Engineering Intern | Kitchener, ON | 2026-11-19 |  | Workday | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603) |
 | Geotab | 🆕 Vehicle Systems Engineering | Waterloo, ON | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4484961583) |
-| Protocase Inc./45Drives Ltd. | 🆕 45Drives Software Developer | Kitchener, ON | 2026-11-19 | CAD 105,000 - 135,000 yearly | Indeed | [Apply](https://protocase.bamboohr.com/careers/459?postedDate=2026-11-18) |
 | Tigercat Industries | 🆕 Weld Robot Programmer | Cambridge, ON | 2026-11-18 | CAD 32 - 38 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010328768979) |
 | McAfee | 🆕 Software Developer in Test - Core Protections | Waterloo, ON | 2026-11-18 | CAD 85,580 - 115,780 yearly | Indeed | [Apply](https://careers.mcafee.com/jobs/1829/job) |
+| Protocase Inc./45Drives Ltd. | 🆕 45Drives Software Developer | Kitchener, ON | 2026-11-18 | CAD 105,000 - 135,000 yearly | Indeed | [Apply](https://protocase.bamboohr.com/careers/459?postedDate=2026-11-18) |
 | Siemens | 🆕 Agentic AI Software Backend & Platform Engineer | Kitchener, ON | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4474982433) |
 | Tigercat Industries | 🆕 Forestry Machine Programmer - Product Designer | Cambridge, ON | 2026-11-18 | CAD 34 - 40 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010328768977) |
 | Acceldata | 🆕 Sales Engineering Co-Op | Kitchener, ON | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4412445712) |
@@ -45,17 +45,16 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Hilti | 🆕 Business Developer Data Centers | Toronto, ON | 2026-11-20 | CAD 100,000 - 115,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010331248342) |
 | Purolator | 🆕 Technology Developer | Mississauga, ON | 2026-11-19 |  | Indeed | [Apply](https://career4.successfactors.com/career?company=Purolator&career_ns=job_listing&career_job_req_id=70202&lang=en_US) |
 | SOTI Inc. | 🆕 Software Developer (DevOps) | Mississauga, ON | 2026-11-19 | CAD 65,000 - 85,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010330185130) |
+| Ericsson | 🆕 Software Developer | Toronto, ON | 2026-11-19 | CAD 8,500 - 11,500 monthly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4492111206) |
 | Wipro | 🆕 Software Engineer | Toronto, ON | 2026-11-19 | CAD 60 - 70 hourly | Indeed | [Apply](https://careers.wipro.com/job/Software-Engineer/219485-en_US) |
 | Mattamy Homes | 🆕 Applications Developer | Mississauga, ON (Hybrid) | 2026-11-19 | CAD 62,500 - 100,000 yearly | Indeed | [Apply](https://app.jobvite.com/CompanyJobs/Job.aspx?j=oKx7AfwI&s=Indeed) |
-| Deloitte | 🆕 Business Analyst | Toronto, ON (Hybrid) | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4476909572) |
+| Deloitte | 🆕 Business Analyst | Toronto, ON | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4476909572) |
 | Procom | 🆕 Full Stack Developer | Toronto, ON (Hybrid) | 2026-11-19 | CAD 81,250 - 106,500 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010330122643) |
 | Diamond Manufacturing | 🆕 CNC Programmer | Markham, ON | 2026-11-19 | CAD 55,000 - 65,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010329901927) |
 | BGC East Scarborough | 🆕 Job Developer -Part Time | Scarborough | 2026-11-19 | CAD 25 - 27 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010330098993) |
 | Quo | Junior Fullstack Engineer | Toronto, ON | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4489186262) |
-| Fidelity Canada | Software Developer | Toronto, ON (Remote) | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4458028036) |
+| Fidelity Canada | Software Developer | Toronto, ON | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4458028036) |
 | Multimatic Inc | 🆕 CNC Machinist / Programmer | Concord, ON | 2026-11-18 | CAD 43,971 - 70,907 yearly | Indeed | [Apply](https://multimatic.wd10.myworkdayjobs.com/en-US/MMEC/job/Concord-Ontario/CNC-Machinist---Programmer_JR103718) |
-| Ericsson | 🆕 Software Developer | Toronto, ON | 2026-11-18 | CAD 8,500 - 11,500 monthly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4492111206) |
-| Celestica | 🆕 Student Intern, Salesforce Developer 1 | Toronto, ON (Hybrid) | 2026-11-18 | CAD 23 - 30 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010328781178) |
 | Tenstorrent | 🆕 AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Canada) | Toronto, ON | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4476197040) |
 | Qualcomm | 🆕 FY27 Intern - AI/Machine Learning Internship Internship - Canada (16 months) | Markham, ON | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491856500) |
 | Sunlife | 🆕 Student, Associate Front-End Developer (Winter 2027) | North York, ON | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4492071600) |
@@ -70,6 +69,8 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | YuJa | 🆕 Full Stack Software Developer | North York, ON | 2026-11-18 | CAD 90,000 - 100,000 yearly | Indeed | [Apply](https://yuja.bamboohr.com/careers/538?postedDate=2026-11-18) |
 | PwC Canada | 🆕 Technical Salesforce Associate | Toronto, ON | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4492069453) |
 | MACASSAR INTERIORS INC | 🆕 Microvellum Programmer | Vaughan, ON | 2026-11-18 | CAD 75,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010328680369) |
+| Frontier Dental CA | AI Engineer | Markham, ON (Hybrid) | 2026-11-18 | CAD 60,000 - 65,000 yearly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4476825708) |
+| Celestica | 🆕 Student Intern, Salesforce Developer 1 | Toronto, ON (Hybrid) | 2026-11-17 | CAD 23 - 30 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010328781178) |
 | Saputo Inc. | 🆕 Intern, Data Engineer Enterprise Analytics | Mississauga, ON | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491761532) |
 | Diksha Technologies | 🆕 Front End Developer | Oshawa, ON (Hybrid) | 2026-11-17 | CAD 60 - 75 hourly | Indeed | [Apply](https://ca.indeed.com/viewjob?jk=82e7bc96e5aae341) |
 | Wolf Advanced Technology | 🆕 Jr. Software Engineer (New Grad) | Aurora, ON | 2026-11-17 | CAD 70,000 - 80,000 yearly | Indeed | [Apply](https://scouterecruit.net/jobs/WAT31-jr-software-engineer-new-grad) |
@@ -181,6 +182,7 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | unesco | 🆕 Consultancy: Data Processing & Template Automation (Python/R) - SDG 4 Education Survey 2027(Remote) | Montreal, QC (Remote) | 2026-11-19 |  | Indeed | [Apply](https://careers.unesco.org/job/Montreal-Consultancy-Data-Processing-&-Template-Automation-%28PythonR%29-SDG-4-Education-Survey-2027%28Remote%29-QC/1378013857) |
 | Plexxis Software (For Subcontractors) | 🆕 Jr. Software Developer (Vancouver Island residents ONLY) | Victoria, BC (Remote) | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491675920) |
 | Plexxis Software (For Subcontractors) | 🆕 Software Developer Apprentice (Vancouver Island residents ONLY) | Langford (Remote) | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491697002) |
+| Thomas Philips Woodworking | 🆕 Cabinet Design & CNC Programmer (Mozaik) | Remote (Canada) (Remote) | 2026-11-19 | CAD 25 - 50 hourly | Indeed | [Apply](https://ca.indeed.com/viewjob?jk=e236cdbc175a3bb2) |
 | LGS, an IBM Company | 🆕 ServiceNow Developer - Platform Configuration, Scripting and Administration | Montreal, QC (Remote) | 2026-11-19 |  | Indeed | [Apply](https://jobs.dayforcehcm.com/en-US/lgs/CANDIDATEPORTAL/jobs/3651) |
 | Eclipse Foundation Inc. | 🆕 Web Developer (PHP & JavaScript) | Remote (Canada) (Remote) | 2026-11-19 | CAD 75,000 - 95,000 yearly | Indeed | [Apply](https://eclipsefoundation.applytojob.com/apply/w3gdXd9Fjr/Web-Developer-PHP-JavaScript) |
 | DOMAINE | 🆕 Backend Engineer | Remote (Canada) (Remote) | 2026-11-19 |  | Indeed | [Apply](https://ats.rippling.com/domaine-careers/jobs/3ee466b1-609b-4943-9185-6d5e5f4f284b) |
@@ -214,6 +216,8 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | TrendAI | 🆕 Software Developer | Ottawa, ON | 2026-11-20 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4492719961) |
 | Hydro Québec | 🆕 Analyste informatique - VB.net / C# | Quebec City, QC | 2026-11-20 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491421209) |
 | HamOnt Sports | 🆕 Hiring Youth Sports Coaches for Winter Programming | Hamilton, ON | 2026-11-20 | CAD 19 - 20 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010331211676) |
+| Trend Micro Inc. | 🆕 Software Developer | Ottawa, ON | 2026-11-19 | CAD 95,000 - 115,000 yearly | Indeed | [Apply](https://trendmicro.wd3.myworkdayjobs.com/en-US/External/job/Ottawa/Software-Developer_R0010451) |
+| lululemon | 🆕 Assistant Technical Developer | Vancouver, BC | 2026-11-19 | CAD 59,800 - 78,500 yearly | Indeed | [Apply](https://careers.lululemon.com/en_US/careers/JobDetail/Assistant-Technical-Developer/65166) |
 | Spectra Aluminum Products | 🆕 CNC Programmer/Setter/Operator | Bradford | 2026-11-19 | CAD 25 - 27 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010330112274) |
 | Skip | 🆕 Machine Learning Engineer | ON, ON | 2026-11-19 |  | Indeed | [Apply](https://tnl2.jometer.com/v2/job?jx=54owa8e61ce54cbf64d109545e706d2822592DEAL2AYAAABQ&jz=5sc6464c5bc87db8e0fc4b877401e079049ecDMAFCBYKAAAQAAAAAAFA) |
 | SkiptheDishes | 🆕 Machine Learning Engineer | Ontario, ON | 2026-11-19 |  | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1009930786038) |
@@ -221,6 +225,7 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Workstream | 🆕 Full Stack Engineer Intern | Vancouver, BC | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491377239) |
 | Dana Incorporated | 🆕 Stagiaire -Design Électrique et Logiciel embarqué | Quebec City, QC | 2026-11-19 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4484740555) |
 | Inizio Engage | 🆕 Software Developer – SQL & Application Support (Global) | Ottawa, ON | 2026-11-19 | CAD 60,000 - 65,000 yearly | Indeed | [Apply](https://inizio.wd3.myworkdayjobs.com/Ashfield_Canada/job/Montreal/Software-Developer---SQL---Application-Support--Global-_JR37110) |
+| SNBB Solutions Inc. | 🆕 Freelance PLC Programmer | Ontario, ON | 2026-11-19 | CAD 40 - 50 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010329843190) |
 | JOURNAL TECHNOLOGIES | 🆕 Junior Data Integration Developer | Victoria, BC | 2026-11-19 |  | Indeed | [Apply](https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d) |
 | Bombardier | 🆕 Analyst, Strategy & Business Dev. (Supply Chain, Fabricated Metal Parts) | Dorval, QC (Hybrid) | 2026-11-19 |  | Indeed | [Apply](https://jobs.bombardier.com/job/Dorval-Analyst%2C-Strategy-&-Business-Dev_-%28Supply-Chain%2C-Fabricated-Metal-Parts%29-Qu%C3%A9b-H4S-1Y9/1418004133) |
 | iA Groupe financier | 🆕 Mobile Applications Developer | Quebec City, QC | 2026-11-19 |  | Indeed | [Apply](https://ia.ca/en/carrieres/job/JR10028365) |
@@ -232,7 +237,6 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Analog Devices | 🆕 Engineer, Embedded Software | Vancouver, BC | 2026-11-19 |  | Indeed | [Apply](https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Canada-Vancouver/Engineer--Embedded-Software_R268243) |
 | Ribbon Communications | 🆕 Software Developer - Common Cloud Services (Co-Op) | Montreal, QC | 2026-11-19 | CAD 26 - 30 hourly | Indeed | [Apply](https://vhr-genband.wd1.myworkdayjobs.com/en-US/ribboncareers/job/Canada-Quebec-Montreal/Software-Developer---Common-Cloud-Services--Co-Op-_REQ-2026-3079) |
 | Valsoft | 🆕 Développeur(se) logiciel .NET/.NET Software Developer | Montreal, QC | 2026-11-19 | CAD 90,000 - 115,000 yearly | Indeed | [Apply](https://apply.workable.com/j/AEC2874585) |
-| General Dynamics Land Systems | 🆕 Software Applications Associate Specialist | London, ON | 2026-11-19 | CAD 48,000 - 73,800 yearly | Indeed | [Apply](https://generaldynamics-ca-careers.ttcportals.com/jobs/18494376-software-applications-associate-specialist?tm_job=5716&tm_event=view&tm_company=48367) |
 | Mitel | Junior Full Stack Web Developer | Ottawa, ON | 2026-11-19 |  | Indeed | [Apply](https://mitel.wd3.myworkdayjobs.com/en-US/mitelcareers/job/Ottawa/Junior-Full-Stack-Web-Developer_R013211) |
 | Zoic Studios | 🆕 BC, Unreal Engine Pipeline Developer | Vancouver, BC | 2026-11-18 | CAD 45 - 65 hourly | Indeed | [Apply](https://zoicstudios.applytojob.com/apply/pQRnmMofQZ/BC-Unreal-Engine-Pipeline-Developer) |
 | National Bank of Canada | 🆕 C++/ETL Developer | Montreal, QC (Hybrid) | 2026-11-18 |  | Indeed | [Apply](https://emplois.bnc.ca/en_CA/careers/JobDetail/P4I43-DEVELOPPEUR-C-ETL/36834) |
@@ -251,11 +255,11 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | TMX Group | 🆕 Stagiaire étudiant(e) - Analyste DevOps | Montreal, QC | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491758620) |
 | RAILCONNEXX INC | 🆕 Software Developer | Peterborough, ON | 2026-11-18 | CAD 20 - 30 hourly | Indeed | [Apply](https://ca.indeed.com/viewjob?jk=52b4e861edd4fd22) |
 | Calgary Co-op | 🆕 Applications Developer | Calgary, AB | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4492200575) |
-| SNBB Solutions Inc. | 🆕 Freelance PLC Programmer | Ontario, ON | 2026-11-18 | CAD 40 - 50 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010329843190) |
 | Xsolla | 🆕 Full Stack AI Engineer / Applied AI Engineer | Montreal, QC | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4348692908) |
 | Tower Research Capital | 🆕 Développeur de logiciels C++ nouvellement diplômé / New Grad C++ Software Developer | Montreal, QC | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4466523490) |
 | DaoAI | 🆕 Junior Full Stack Engineer - Wemio | Vancouver, BC | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491887680) |
 | DaoAI | 🆕 Junior Computer Vision Engineer - AOI | Vancouver, BC | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4491440929) |
+| General Dynamics Land Systems | 🆕 Software Applications Associate Specialist | London, ON | 2026-11-18 | CAD 48,000 - 73,800 yearly | Indeed | [Apply](https://generaldynamics-ca-careers.ttcportals.com/jobs/18494376-software-applications-associate-specialist?tm_job=5716&tm_event=view&tm_company=48367) |
 | L3Harris Technologies | 🆕 Test Engineering, Software Designer | Waterdown, ON | 2026-11-18 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4484460482) |
 | DaoAI Robotics Inc. | 🆕 Junior Full Stack Engineer - Wemio | Vancouver, BC | 2026-11-18 | CAD 60,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010330119045) |
 | Desjardins | Programmer analyst, System and infrastructure operations, maintenance and development | Montreal, QC | 2026-11-18 |  | Indeed | [Apply](https://desjardins-workplace.relevance.studio/en/job-detail/1-807125baef111002fd11d5d5d5700000-programmer-analyst-system-and-infrastructure-operations-maintenance-and-development-montreal-levis) |
@@ -290,8 +294,8 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Voyageur Aviation Corp | AMT SALES ASSOCIATE (Evening Shift) | North Bay, ON | 2026-11-17 | CAD 23 hourly | Indeed | [Apply](https://recruiting.ultipro.ca/VOY5000VOYA/JobBoard/f10caa44-16c9-4114-8459-9170e6cc9b39/OpportunityDetail?opportunityId=226325d9-1f3d-4164-b264-b8a5edcbc2ca&postingId=d98e61eb-0a88-4f5e-a394-69c02023bb91) |
 | Hunter Bond | Junior Python Engineer - Montreal - Up to $145,000 CAD + Exceptional Bonuses/Benefits | Montreal, QC (Hybrid) | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4485855311) |
 | Planview | Software Engineer I | Vancouver, BC | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4477739433) |
-| Hunter Bond | Junior React Engineer - Montreal - Up to $145,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, QC (Hybrid) | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4485850698) |
-| Hunter Bond | Graduate Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, QC (Hybrid) | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4485852536) |
+| Hunter Bond | Junior React Engineer - Montreal - Up to $145,000 CAD Starting Base + Exceptional Bonuses/Benefits | Montreal, QC | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4485850698) |
+| Hunter Bond | Graduate Quant Developer / Quant Researcher - Up to $150,000 + Bonus + Benefits | Montreal, QC | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4485852536) |
 | AlayaCare | Junior Fullstack Developer (Python) | Montreal, QC | 2026-11-17 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4472631941) |
 | Fortinet | Embedded Software Developer | Burnaby, BC | 2026-11-17 | CAD 94,000 - 163,000 yearly | Indeed | [Apply](https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_xx/requisitions/preview/24758) |
 | Epic Games | 🆕 Stagiaire en apprentissage automatique | Montreal, QC | 2026-11-16 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4490675014) |
@@ -411,4 +415,4 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | mthree Recruiting Portal | Junior Data Scientist | Canada | 2023-12-11 |  | Company careers page | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4313148006) |
 | Databricks | Software Engineer - New Grad (2027 Start) | Vancouver, BC | 2023-08-04 |  | Greenhouse | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) |
 
-529 roles that closed in the last 60 days are in [`archive.csv`](archive.csv).
+528 roles that closed in the last 60 days are in [`archive.csv`](archive.csv).
