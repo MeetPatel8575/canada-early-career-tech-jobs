@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-20 08:25 UTC",
- "count": 385,
+ "updated": "2026-11-20 11:47 UTC",
+ "count": 386,
  "jobs": [
   {
    "id": "1c6727b0e8",
@@ -185,7 +185,7 @@
    "city": "Langford",
    "province": "",
    "location": "Langford, British Columbia, Canada",
-   "workplace": "Remote",
+   "workplace": "On-site",
    "posted": "2026-11-19",
    "first_seen": "2026-11-20",
    "pay": "",
@@ -241,6 +241,22 @@
    "level": "Junior / Entry",
    "source": "Indeed",
    "link": "https://ca.indeed.com/viewjob?jk=e236cdbc175a3bb2"
+  },
+  {
+   "id": "a5c4d43b4b",
+   "title": "Data Engineer – Enterprise Data Engineering, Data Science and Informatica",
+   "company": "Data intuition",
+   "city": "Brampton",
+   "province": "ON",
+   "location": "Brampton, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-20",
+   "pay": "CAD 53 hourly",
+   "experience": "2+ years",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://ca.indeed.com/viewjob?jk=6708872df173b09c"
   },
   {
    "id": "b053fd620d",
@@ -369,6 +385,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4491362733"
+  },
+  {
+   "id": "6fd64c9634",
+   "title": "Associate Software Development Engineer in Test (SDET)",
+   "company": "SOTI",
+   "city": "Mississauga",
+   "province": "ON",
+   "location": "Mississauga, Canada – Meadowvale Office (HQ)",
+   "workplace": "Hybrid",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Company careers page",
+   "link": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Software-Development-Engineer-in-Test--SDET-_R10624"
   },
   {
    "id": "0032bf0c2f",
@@ -681,7 +713,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "On-site",
+   "workplace": "Hybrid",
    "posted": "2026-11-19",
    "first_seen": "2026-11-19",
    "pay": "",
@@ -993,6 +1025,22 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4468276143"
+  },
+  {
+   "id": "61dc387d83",
+   "title": "Student Intern, Salesforce Developer 1",
+   "company": "Celestica",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Canada",
+   "workplace": "Hybrid",
+   "posted": "2026-11-18",
+   "first_seen": "2026-11-19",
+   "pay": "CAD 23 - 30 hourly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Glassdoor",
+   "link": "https://www.glassdoor.ca/job-listing/j?jl=1010328781178"
   },
   {
    "id": "9f6dd1e588",
@@ -1657,7 +1705,7 @@
    "city": "Canada",
    "province": "ON",
    "location": "Canada",
-   "workplace": "Remote",
+   "workplace": "On-site",
    "posted": "2026-11-18",
    "first_seen": "2026-11-02",
    "pay": "",
@@ -1697,22 +1745,6 @@
    "level": "Junior / Entry",
    "source": "Indeed",
    "link": "https://grnh.se/a71105zr3us"
-  },
-  {
-   "id": "61dc387d83",
-   "title": "Student Intern, Salesforce Developer 1",
-   "company": "Celestica",
-   "city": "Toronto",
-   "province": "ON",
-   "location": "Toronto, Canada",
-   "workplace": "Hybrid",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-19",
-   "pay": "CAD 23 - 30 hourly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Glassdoor",
-   "link": "https://www.glassdoor.ca/job-listing/j?jl=1010328781178"
   },
   {
    "id": "5ba114ee53",
@@ -5649,22 +5681,6 @@
    "level": "Junior / Entry",
    "source": "Workday",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379"
-  },
-  {
-   "id": "6fd64c9634",
-   "title": "Associate Software Development Engineer in Test (SDET)",
-   "company": "SOTI",
-   "city": "Mississauga",
-   "province": "ON",
-   "location": "Mississauga, Canada – Meadowvale Office (HQ)",
-   "workplace": "Hybrid",
-   "posted": "2026-10-29",
-   "first_seen": "2026-11-19",
-   "pay": "",
-   "experience": "2+ years",
-   "level": "Junior / Entry",
-   "source": "Company careers page",
-   "link": "https://soti.wd3.myworkdayjobs.com/Careers/job/Mississauga-Canada--Meadowvale-Office-HQ/Associate-Software-Development-Engineer-in-Test--SDET-_R10624"
   },
   {
    "id": "24a9a7e025",
