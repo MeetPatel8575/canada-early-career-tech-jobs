@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-23 21:16 UTC",
- "count": 338,
+ "updated": "2026-11-23 22:19 UTC",
+ "count": 345,
  "jobs": [
   {
    "id": "298d021ab0",
@@ -179,6 +179,86 @@
    "link": "https://ca.indeed.com/viewjob?jk=8438d3d40485196a"
   },
   {
+   "id": "08cadf3ea7",
+   "title": "Full Stack Developer",
+   "company": "Moment Energy",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, BC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://grnh.se/acs1bedp9us"
+  },
+  {
+   "id": "56e55eea3a",
+   "title": "CAD/Revit Draftsperson",
+   "company": "Isherwood",
+   "city": "Mississauga",
+   "province": "ON",
+   "location": "Mississauga, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "pay": "CAD 60,000 - 90,000 yearly",
+   "experience": "1+ years",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://ca.indeed.com/viewjob?jk=44b70016fa1e4537"
+  },
+  {
+   "id": "1e9e1d7b21",
+   "title": "Associate Manufacturing Engineer (6m contract)",
+   "company": "VITALBIO",
+   "city": "Oakville",
+   "province": "ON",
+   "location": "Oakville, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "pay": "",
+   "experience": "1+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://vitalbio.na.teamtailor.com/jobs/744403-associate-manufacturing-engineer-6m-contract"
+  },
+  {
+   "id": "b176db3112",
+   "title": "Full Stack AI Developer (React / Ruby on Rails)",
+   "company": "High Tech Genesis",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493681545"
+  },
+  {
+   "id": "56dbb74508",
+   "title": "Credit Policy & Governance Associate",
+   "company": "Brex",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, BC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "pay": "CAD 95,000 - 118,000 yearly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://grnh.se/ihadda0j2us"
+  },
+  {
    "id": "b6d7574c66",
    "title": "Drupal Developer",
    "company": "Universal Health Hub",
@@ -243,6 +323,22 @@
    "link": "https://www.linkedin.com/jobs/view/4491421209"
   },
   {
+   "id": "df3e9af568",
+   "title": "Software Engineer",
+   "company": "AfterQuery Experts",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, British Columbia, Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-03",
+   "pay": "USD 50 - 100 hourly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4486120567"
+  },
+  {
    "id": "35de3b4edd",
    "title": "Software Engineer - Python - Cloud - graduate level",
    "company": "Canonical",
@@ -257,6 +353,38 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4433377410"
+  },
+  {
+   "id": "9f5acc8548",
+   "title": "Backend / API Engineer, Radar",
+   "company": "Stripe",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-10-21",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Greenhouse",
+   "link": "https://stripe.com/jobs/search?gh_jid=8301379"
+  },
+  {
+   "id": "9ea468a306",
+   "title": "Full Stack Developer – C# / SQL Server",
+   "company": "Toro Group of Companies",
+   "city": "Concord",
+   "province": "ON",
+   "location": "Concord, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-23",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4448706093"
   },
   {
    "id": "acae648217",
@@ -499,22 +627,6 @@
    "link": "https://www.linkedin.com/jobs/view/4474874273"
   },
   {
-   "id": "2373e1b246",
-   "title": "Software Developer – Research & Development",
-   "company": "Octasic",
-   "city": "Montreal",
-   "province": "QC",
-   "location": "Montreal, Quebec, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-21",
-   "first_seen": "2026-11-21",
-   "pay": "",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4491994760"
-  },
-  {
    "id": "84eaf6703f",
    "title": "Software Engineer, Streaming Platform",
    "company": "Sentry",
@@ -545,22 +657,6 @@
    "level": "Junior / Entry",
    "source": "Glassdoor",
    "link": "https://www.glassdoor.ca/job-listing/j?jl=1010332185132"
-  },
-  {
-   "id": "d379cef437",
-   "title": "Embedded Software Developer - New Grad",
-   "company": "Ciena",
-   "city": "Ottawa",
-   "province": "ON",
-   "location": "Ottawa",
-   "workplace": "On-site",
-   "posted": "2026-11-21",
-   "first_seen": "2026-11-20",
-   "pay": "CAD 76,200 - 121,800 yearly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Workday",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
   },
   {
    "id": "a19ceb916d",
@@ -819,6 +915,22 @@
    "link": "https://job-boards.greenhouse.io/affirm/jobs/8201471003"
   },
   {
+   "id": "2373e1b246",
+   "title": "Software Developer – Research & Development",
+   "company": "Octasic",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-21",
+   "pay": "",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4491994760"
+  },
+  {
    "id": "2d1c6f230e",
    "title": "Développeuse ou développeur mobile, Connectivité et développement des applications",
    "company": "BRP",
@@ -1057,6 +1169,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4492947441"
+  },
+  {
+   "id": "d379cef437",
+   "title": "Embedded Software Developer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "pay": "CAD 76,200 - 121,800 yearly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Workday",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
   },
   {
    "id": "569ca7be35",
@@ -2081,22 +2209,6 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4458028036"
-  },
-  {
-   "id": "24a9a7e025",
-   "title": "Routing/IP Software Engineer - New Grad",
-   "company": "Ciena",
-   "city": "Ottawa",
-   "province": "ON",
-   "location": "Ottawa",
-   "workplace": "On-site",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-02",
-   "pay": "",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Workday",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006"
   },
   {
    "id": "234be6db0c",
@@ -4147,22 +4259,6 @@
    "link": "https://www.linkedin.com/jobs/view/4486111136"
   },
   {
-   "id": "df3e9af568",
-   "title": "Software Engineer",
-   "company": "AfterQuery Experts",
-   "city": "Vancouver",
-   "province": "BC",
-   "location": "Vancouver, British Columbia, Canada",
-   "workplace": "Remote",
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-03",
-   "pay": "USD 50 - 100 hourly",
-   "experience": "2+ years",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4486120567"
-  },
-  {
    "id": "95f8708791",
    "title": "Software Developer",
    "company": "AfterQuery Experts",
@@ -4913,6 +5009,22 @@
    "level": "Junior / Entry",
    "source": "Workday",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379"
+  },
+  {
+   "id": "24a9a7e025",
+   "title": "Routing/IP Software Engineer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-10-28",
+   "first_seen": "2026-11-02",
+   "pay": "",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Workday",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Routing-IP-Software-Engineer----New-Grad_R032006"
   },
   {
    "id": "a89b75bae1",
