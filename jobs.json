@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 15:54 UTC",
- "count": 315,
+ "updated": "2026-11-24 17:07 UTC",
+ "count": 320,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -81,6 +81,38 @@
    "level": "Junior / Entry",
    "source": "Workday",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171"
+  },
+  {
+   "id": "0605aca630",
+   "title": "Ingénieur Full Stack/Ingénieure Full Stack",
+   "company": "St-Amour",
+   "city": "Quebec City",
+   "province": "QC",
+   "location": "Lanaudière, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "CAD 110,000 - 130,000 yearly",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494149962"
+  },
+  {
+   "id": "f3b24cf037",
+   "title": "Java Full Stack Developer",
+   "company": "Quantum World Technologies Inc.",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494158368"
   },
   {
    "id": "db76c189db",
@@ -257,6 +289,38 @@
    "level": "",
    "source": "Indeed",
    "link": "https://ca.indeed.com/viewjob?jk=89d4beca1cc44c95"
+  },
+  {
+   "id": "d180439296",
+   "title": "Full Stack Engineer",
+   "company": "AfterQuery Experts",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, British Columbia, Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "USD 50 - 100 hourly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493602430"
+  },
+  {
+   "id": "78c63e7e02",
+   "title": "AI-Enabled .NET UI/UX Software Developer - Advanced Motion Control & Visualization",
+   "company": "Polaris Motion",
+   "city": "Victoria",
+   "province": "BC",
+   "location": "Victoria, British Columbia, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494046641"
   },
   {
    "id": "298d021ab0",
@@ -689,6 +753,22 @@
    "level": "Junior / Entry",
    "source": "Greenhouse",
    "link": "https://stripe.com/jobs/search?gh_jid=8301379"
+  },
+  {
+   "id": "4d1c0bd6d1",
+   "title": "Java Développeur Fullstack",
+   "company": "Société Générale",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montréal, QC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://careers.societegenerale.com/offres-d-emploi/java-developpeur-fullstack-260003LT-fr"
   },
   {
    "id": "9ea468a306",
