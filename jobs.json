@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 02:12 UTC",
- "count": 324,
+ "updated": "2026-11-24 04:45 UTC",
+ "count": 328,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -17,6 +17,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4493950744"
+  },
+  {
+   "id": "884ea1b673",
+   "title": "Développeur Front-End React.js (Mid)",
+   "company": "Jalfa Tech",
+   "city": "Quebec City",
+   "province": "QC",
+   "location": "Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-11",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4489600034"
   },
   {
    "id": "f915ef359a",
@@ -329,7 +345,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "On-site",
+   "workplace": "Hybrid",
    "posted": "2026-11-23",
    "first_seen": "2026-11-23",
    "pay": "",
@@ -1311,7 +1327,7 @@
    "pay": "CAD 76,200 - 121,800 yearly",
    "experience": "",
    "level": "Junior / Entry",
-   "source": "Workday",
+   "source": "Company careers page",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
   },
   {
@@ -3151,7 +3167,7 @@
    "pay": "",
    "experience": "",
    "level": "Internship",
-   "source": "Workday",
+   "source": "Company careers page",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/ASIC-Engineer-Intern_R031750"
   },
   {
@@ -4303,8 +4319,8 @@
    "pay": "CAD 72,000 - 115,000 yearly",
    "experience": "",
    "level": "Junior / Entry",
-   "source": "Workday",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R032090-1"
+   "source": "Company careers page",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571"
   },
   {
    "id": "2733a80bf6",
@@ -4739,6 +4755,38 @@
    "link": "https://job-boards.greenhouse.io/mozilla/jobs/8302305"
   },
   {
+   "id": "791909fac8",
+   "title": "Hardware Engineering Co-op (Winter 2027)",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-11-03",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "Internship",
+   "source": "Company careers page",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Engineering-Co-op--Winter-2027-_R032054"
+  },
+  {
+   "id": "2417b991fa",
+   "title": "Stagiaire en développement logiciel - Software developer Intern/Co-op",
+   "company": "Ciena",
+   "city": "Remote (Canada)",
+   "province": "",
+   "location": "Remote-Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-03",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "Internship",
+   "source": "Company careers page",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046"
+  },
+  {
    "id": "9183a0ead0",
    "title": "Software Engineer, International Expansion",
    "company": "Robinhood",
@@ -4799,8 +4847,24 @@
    "pay": "",
    "experience": "0+ years",
    "level": "Junior / Entry",
-   "source": "Workday",
+   "source": "Company careers page",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Experienced-Photonic-Card-Software-Developer_R031379"
+  },
+  {
+   "id": "fcd513df86",
+   "title": "Hardware Characterization Automation Co-op (Winter 2027)",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-10-29",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "Internship",
+   "source": "Company careers page",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Hardware-Characterization-Automation-Co-op--Winter-2027-_R032014"
   },
   {
    "id": "24a9a7e025",
