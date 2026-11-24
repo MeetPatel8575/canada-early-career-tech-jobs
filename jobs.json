@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 22:16 UTC",
- "count": 333,
+ "updated": "2026-11-24 23:16 UTC",
+ "count": 338,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -147,6 +147,38 @@
    "link": "https://www.linkedin.com/jobs/view/4494148966"
   },
   {
+   "id": "06772a8efe",
+   "title": "Digital Tools Developer",
+   "company": "Mount Royal University",
+   "city": "Calgary",
+   "province": "AB",
+   "location": "Calgary, Alberta, Canada",
+   "workplace": "Hybrid",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493053463"
+  },
+  {
+   "id": "2e20a2b66a",
+   "title": "Analyste informatique - UIPATH",
+   "company": "Hydro Québec",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494717664"
+  },
+  {
    "id": "3167a93273",
    "title": "un(e) Développeur(se), solutions technologiques / Tech Solutions Developer",
    "company": "Manmade",
@@ -179,6 +211,22 @@
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
   },
   {
+   "id": "d43e4222ef",
+   "title": "Full Stack Developer",
+   "company": "Spait Infotech",
+   "city": "Canada",
+   "province": "",
+   "location": "Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-18",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4491431583"
+  },
+  {
    "id": "db76c189db",
    "title": "Full Stack AI-Native Engineer",
    "company": "Accenture",
@@ -193,6 +241,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4478815356"
+  },
+  {
+   "id": "ec5c663c36",
+   "title": "Software Engineer",
+   "company": "Greenhouse Software",
+   "city": "British Columbia",
+   "province": "",
+   "location": "British Columbia, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-17",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4490459853"
   },
   {
    "id": "b26e31aa9e",
@@ -273,6 +337,22 @@
    "level": "Junior / Entry",
    "source": "Workday",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059"
+  },
+  {
+   "id": "d87c306cc7",
+   "title": "Software Developer",
+   "company": "Spait Infotech",
+   "city": "Canada",
+   "province": "",
+   "location": "Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-04",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4486511050"
   },
   {
    "id": "aae1149264",
@@ -505,7 +585,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "On-site",
+   "workplace": "Remote",
    "posted": "2026-11-23",
    "first_seen": "2026-11-24",
    "pay": "",
@@ -521,7 +601,7 @@
    "city": "Canada",
    "province": "",
    "location": "Canada",
-   "workplace": "Remote",
+   "workplace": "On-site",
    "posted": "2026-11-23",
    "first_seen": "2026-11-24",
    "pay": "",
@@ -545,6 +625,38 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4494045363"
+  },
+  {
+   "id": "e5465391da",
+   "title": "Stage - service corpo",
+   "company": "Loto-Québec",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493932219"
+  },
+  {
+   "id": "85df6e7cc3",
+   "title": "Stagiaire en développement informatique",
+   "company": "Revenu Québec",
+   "city": "Quebec City",
+   "province": "QC",
+   "location": "Québec, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "Internship",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493664203"
   },
   {
    "id": "298d021ab0",
@@ -809,7 +921,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "Hybrid",
+   "workplace": "On-site",
    "posted": "2026-11-23",
    "first_seen": "2026-11-23",
    "pay": "",
@@ -3811,22 +3923,6 @@
    "link": "https://ca.indeed.com/viewjob?jk=82e7bc96e5aae341"
   },
   {
-   "id": "d43e4222ef",
-   "title": "Full Stack Developer",
-   "company": "Spait Infotech",
-   "city": "Canada",
-   "province": "",
-   "location": "Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-18",
-   "pay": "",
-   "experience": "",
-   "level": "",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4491431583"
-  },
-  {
    "id": "ceaa2c6f7d",
    "title": "Programmeur en modélisation et simulation",
    "company": "Skadra",
@@ -4129,22 +4225,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4475451414"
-  },
-  {
-   "id": "ec5c663c36",
-   "title": "Software Engineer",
-   "company": "Greenhouse Software",
-   "city": "British Columbia",
-   "province": "",
-   "location": "British Columbia, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-17",
-   "pay": "",
-   "experience": "2+ years",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4490459853"
   },
   {
    "id": "a1afb0909c",
