@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-24 00:39 UTC",
- "count": 321,
+ "updated": "2026-11-24 02:12 UTC",
+ "count": 324,
  "jobs": [
+  {
+   "id": "e2f2a2e388",
+   "title": "Machine Learning Engineer",
+   "company": "Amazon",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493950744"
+  },
+  {
+   "id": "f915ef359a",
+   "title": "Junior Fullstack Engineer",
+   "company": "Quo",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-10",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4489186262"
+  },
+  {
+   "id": "538bc0340d",
+   "title": "Programmeur(euse)-analyste | Éditeur de logiciels | Transport",
+   "company": "Kernel Solutions",
+   "city": "Quebec City",
+   "province": "QC",
+   "location": "St-Jérôme, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494013909"
+  },
   {
    "id": "298d021ab0",
    "title": "Software Engineer",
@@ -281,7 +329,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "Hybrid",
+   "workplace": "On-site",
    "posted": "2026-11-23",
    "first_seen": "2026-11-23",
    "pay": "",
@@ -369,6 +417,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4486120567"
+  },
+  {
+   "id": "95f8708791",
+   "title": "Software Developer",
+   "company": "AfterQuery Experts",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, British Columbia, Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-03",
+   "pay": "USD 50 - 100 hourly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4486127326"
   },
   {
    "id": "35de3b4edd",
@@ -529,6 +593,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4482833918"
+  },
+  {
+   "id": "daf845beed",
+   "title": "Développeur(se) en IA",
+   "company": "Wepoint",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-21",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4485110409"
   },
   {
    "id": "0691de7e07",
@@ -721,22 +801,6 @@
    "level": "Junior / Entry",
    "source": "Glassdoor",
    "link": "https://www.glassdoor.ca/job-listing/j?jl=1010332185132"
-  },
-  {
-   "id": "d379cef437",
-   "title": "Embedded Software Developer - New Grad",
-   "company": "Ciena",
-   "city": "Ottawa",
-   "province": "ON",
-   "location": "Ottawa",
-   "workplace": "On-site",
-   "posted": "2026-11-21",
-   "first_seen": "2026-11-20",
-   "pay": "CAD 76,200 - 121,800 yearly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Workday",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
   },
   {
    "id": "a19ceb916d",
@@ -1233,6 +1297,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4492947441"
+  },
+  {
+   "id": "d379cef437",
+   "title": "Embedded Software Developer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-11-20",
+   "first_seen": "2026-11-20",
+   "pay": "CAD 76,200 - 121,800 yearly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Workday",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
   },
   {
    "id": "569ca7be35",
@@ -2193,22 +2273,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4480158256"
-  },
-  {
-   "id": "f915ef359a",
-   "title": "Junior Fullstack Engineer",
-   "company": "Quo",
-   "city": "Toronto",
-   "province": "ON",
-   "location": "Toronto, Ontario, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-10",
-   "pay": "",
-   "experience": "2+ years",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4489186262"
   },
   {
    "id": "42918045d6",
@@ -4289,22 +4353,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4486111136"
-  },
-  {
-   "id": "95f8708791",
-   "title": "Software Developer",
-   "company": "AfterQuery Experts",
-   "city": "Vancouver",
-   "province": "BC",
-   "location": "Vancouver, British Columbia, Canada",
-   "workplace": "Remote",
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-03",
-   "pay": "USD 50 - 100 hourly",
-   "experience": "2+ years",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4486127326"
   },
   {
    "id": "3ba7e6c9f2",
