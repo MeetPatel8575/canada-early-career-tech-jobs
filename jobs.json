@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 21:15 UTC",
- "count": 328,
+ "updated": "2026-11-24 22:16 UTC",
+ "count": 333,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -291,6 +291,22 @@
    "link": "https://www.linkedin.com/jobs/view/4374443018"
   },
   {
+   "id": "a88b67cc38",
+   "title": "Geomatics Technician",
+   "company": "Canadian Armed Forces | Forces armées canadiennes",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-04",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4451218861"
+  },
+  {
    "id": "d8222bbcb2",
    "title": "AI Software Engineer",
    "company": "SS&C",
@@ -337,6 +353,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4476087696"
+  },
+  {
+   "id": "f44fc53c2c",
+   "title": "Ingénieur Logiciel Android, Lyft Solutions Urbaines",
+   "company": "Lyft",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-02",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4460374807"
   },
   {
    "id": "538bc0340d",
@@ -473,7 +505,7 @@
    "city": "Toronto",
    "province": "ON",
    "location": "Toronto, Ontario, Canada",
-   "workplace": "Remote",
+   "workplace": "On-site",
    "posted": "2026-11-23",
    "first_seen": "2026-11-24",
    "pay": "",
@@ -481,6 +513,38 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4486414582"
+  },
+  {
+   "id": "33ffb17ced",
+   "title": "iOS Developer",
+   "company": "Simplify Software Experts LLC/ Simpli Software Solutions Inc",
+   "city": "Canada",
+   "province": "",
+   "location": "Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494013109"
+  },
+  {
+   "id": "bff48cad69",
+   "title": "Omnichannel Menu Technician (Temporary)",
+   "company": "Boston Pizza International Inc",
+   "city": "Richmond",
+   "province": "BC",
+   "location": "Richmond, British Columbia, Canada",
+   "workplace": "Hybrid",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494045363"
   },
   {
    "id": "298d021ab0",
@@ -913,6 +977,22 @@
    "level": "",
    "source": "Indeed",
    "link": "https://careers.societegenerale.com/offres-d-emploi/java-developpeur-fullstack-260003LT-fr"
+  },
+  {
+   "id": "e4556b98e0",
+   "title": "Mobile Developer (iOS & Android)",
+   "company": "NexGen Tech Solutions",
+   "city": "Calgary",
+   "province": "AB",
+   "location": "Calgary, Alberta, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493369399"
   },
   {
    "id": "9ea468a306",
