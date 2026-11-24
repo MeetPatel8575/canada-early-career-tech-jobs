@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 18:42 UTC",
- "count": 321,
+ "updated": "2026-11-24 20:11 UTC",
+ "count": 326,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -131,6 +131,38 @@
    "link": "https://ca.indeed.com/viewjob?jk=41c63e06b1e18605"
   },
   {
+   "id": "88096b894e",
+   "title": "Automation Analyst, Continuous Improvement",
+   "company": "CST Savings",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Greater Toronto Area, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "CAD 77,000 - 87,000 yearly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494148966"
+  },
+  {
+   "id": "3167a93273",
+   "title": "un(e) Développeur(se), solutions technologiques / Tech Solutions Developer",
+   "company": "Manmade",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-23",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493663193"
+  },
+  {
    "id": "db76c189db",
    "title": "Full Stack AI-Native Engineer",
    "company": "Accenture",
@@ -163,6 +195,22 @@
    "link": "https://www.linkedin.com/jobs/view/4490752736"
   },
   {
+   "id": "046198fb32",
+   "title": "Développeur ou développeuse full-stack",
+   "company": "Alithya",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-11",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4463076877"
+  },
+  {
    "id": "884ea1b673",
    "title": "Développeur Front-End React.js (Mid)",
    "company": "Jalfa Tech",
@@ -193,6 +241,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4489186262"
+  },
+  {
+   "id": "aae1149264",
+   "title": "Développeur en IA - Québec | AI Developer - Quebec",
+   "company": "Marea",
+   "city": "Quebec City",
+   "province": "QC",
+   "location": "Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-04",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4374443018"
   },
   {
    "id": "d8222bbcb2",
@@ -339,6 +403,38 @@
    "link": "https://www.linkedin.com/jobs/view/4494046641"
   },
   {
+   "id": "a3aa883046",
+   "title": "Technicienne-analyste ou technicien-analyste en informatique (programmeur-analyste .net - dynamics 365)",
+   "company": "Ville de Québec",
+   "city": "Quebec City",
+   "province": "QC",
+   "location": "Québec, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "CAD 66,600 - 98,609 yearly",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493670133"
+  },
+  {
+   "id": "318d937a17",
+   "title": "AI Applied Engineer",
+   "company": "Artefact",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493600642"
+  },
+  {
    "id": "298d021ab0",
    "title": "Software Engineer",
    "company": "Trackunit",
@@ -481,22 +577,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4492638607"
-  },
-  {
-   "id": "3167a93273",
-   "title": "un(e) Développeur(se), solutions technologiques / Tech Solutions Developer",
-   "company": "Manmade",
-   "city": "Montreal",
-   "province": "QC",
-   "location": "Montreal, Quebec, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-23",
-   "first_seen": "2026-11-23",
-   "pay": "",
-   "experience": "2+ years",
-   "level": "",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4493663193"
   },
   {
    "id": "db9409d70e",
