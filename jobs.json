@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 17:07 UTC",
- "count": 320,
+ "updated": "2026-11-24 18:42 UTC",
+ "count": 321,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -113,6 +113,22 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4494158368"
+  },
+  {
+   "id": "83b1f019e1",
+   "title": "AI Software Developer – Full Stack (In-House)",
+   "company": "RootOS Inc.",
+   "city": "Cambridge",
+   "province": "ON",
+   "location": "Cambridge, ON, Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "CAD 90,000 - 120,000 yearly",
+   "experience": "",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://ca.indeed.com/viewjob?jk=41c63e06b1e18605"
   },
   {
    "id": "db76c189db",
