@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 20:11 UTC",
- "count": 326,
+ "updated": "2026-11-24 21:15 UTC",
+ "count": 328,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -163,6 +163,22 @@
    "link": "https://www.linkedin.com/jobs/view/4493663193"
   },
   {
+   "id": "d379cef437",
+   "title": "Embedded Software Developer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-20",
+   "pay": "CAD 76,200 - 121,800 yearly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Company careers page",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
+  },
+  {
    "id": "db76c189db",
    "title": "Full Stack AI-Native Engineer",
    "company": "Accenture",
@@ -241,6 +257,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4489186262"
+  },
+  {
+   "id": "d34a75f63b",
+   "title": "Software Design/Engineer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-05",
+   "pay": "",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Workday",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059"
   },
   {
    "id": "aae1149264",
@@ -433,6 +465,22 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4493600642"
+  },
+  {
+   "id": "7c34669688",
+   "title": "Creative Developer - 6 months FTC",
+   "company": "DEPT®",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "Remote",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4486414582"
   },
   {
    "id": "298d021ab0",
@@ -1697,22 +1745,6 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4492947441"
-  },
-  {
-   "id": "d379cef437",
-   "title": "Embedded Software Developer - New Grad",
-   "company": "Ciena",
-   "city": "Ottawa",
-   "province": "ON",
-   "location": "Ottawa",
-   "workplace": "On-site",
-   "posted": "2026-11-20",
-   "first_seen": "2026-11-20",
-   "pay": "CAD 76,200 - 121,800 yearly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Company careers page",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
   },
   {
    "id": "569ca7be35",
