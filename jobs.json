@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 13:03 UTC",
- "count": 311,
+ "updated": "2026-11-24 14:22 UTC",
+ "count": 313,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -67,6 +67,22 @@
    "link": "https://priceline.wd1.myworkdayjobs.com/en-US/Priceline/job/Toronto/Associate-Java-Full-Stack-Developer_R5934"
   },
   {
+   "id": "08cadf3ea7",
+   "title": "Full Stack Developer",
+   "company": "Moment Energy",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, BC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-23",
+   "pay": "CAD 70,000 - 100,100 yearly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://grnh.se/acs1bedp9us"
+  },
+  {
    "id": "db76c189db",
    "title": "Full Stack AI-Native Engineer",
    "company": "Accenture",
@@ -81,6 +97,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4478815356"
+  },
+  {
+   "id": "b26e31aa9e",
+   "title": "Analyste TI – Développeur(euse) QA",
+   "company": "Kativik llisarniliriniq",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-14",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4490752736"
   },
   {
    "id": "884ea1b673",
@@ -113,6 +145,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4489186262"
+  },
+  {
+   "id": "d8222bbcb2",
+   "title": "AI Software Engineer",
+   "company": "SS&C",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-03",
+   "pay": "CAD 65,000 - 90,000 yearly",
+   "experience": "",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://ssctech.wd1.myworkdayjobs.com/en-US/SSCTechnologies/job/Ontario-Toronto/AI-Software-Engineer_R45795"
   },
   {
    "id": "cf2685989f",
@@ -371,22 +419,6 @@
    "link": "https://ca.indeed.com/viewjob?jk=8438d3d40485196a"
   },
   {
-   "id": "08cadf3ea7",
-   "title": "Full Stack Developer",
-   "company": "Moment Energy",
-   "city": "Vancouver",
-   "province": "BC",
-   "location": "Vancouver, BC, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-23",
-   "first_seen": "2026-11-23",
-   "pay": "",
-   "experience": "2+ years",
-   "level": "Junior / Entry",
-   "source": "Indeed",
-   "link": "https://grnh.se/acs1bedp9us"
-  },
-  {
    "id": "56e55eea3a",
    "title": "CAD/Revit Draftsperson",
    "company": "Isherwood",
@@ -547,6 +579,22 @@
    "link": "https://www.linkedin.com/jobs/view/4491421209"
   },
   {
+   "id": "7b412ba72c",
+   "title": "Web Developer",
+   "company": "Spait Infotech",
+   "city": "Canada",
+   "province": "",
+   "location": "Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-18",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4491433666"
+  },
+  {
    "id": "df3e9af568",
    "title": "Software Engineer",
    "company": "AfterQuery Experts",
@@ -641,6 +689,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4487872447"
+  },
+  {
+   "id": "0fbcfa4b22",
+   "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
+   "company": "Magnetforensics",
+   "city": "Waterloo",
+   "province": "ON",
+   "location": "Waterloo, Ontario",
+   "workplace": "On-site",
+   "posted": "2026-11-22",
+   "first_seen": "2026-11-02",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Lever",
+   "link": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b/apply"
   },
   {
    "id": "22c3d96064",
@@ -3459,22 +3523,6 @@
    "link": "https://www.linkedin.com/jobs/view/4491431583"
   },
   {
-   "id": "7b412ba72c",
-   "title": "Web Developer",
-   "company": "Spait Infotech",
-   "city": "Canada",
-   "province": "",
-   "location": "Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-17",
-   "first_seen": "2026-11-18",
-   "pay": "",
-   "experience": "",
-   "level": "",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4491433666"
-  },
-  {
    "id": "ceaa2c6f7d",
    "title": "Programmeur en modélisation et simulation",
    "company": "Skadra",
@@ -4897,22 +4945,6 @@
    "level": "Junior / Entry",
    "source": "Company careers page",
    "link": "https://www.konrad.com/careers/job/mobile-developer-entry-level_7976082003"
-  },
-  {
-   "id": "0fbcfa4b22",
-   "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
-   "company": "Magnetforensics",
-   "city": "Waterloo",
-   "province": "ON",
-   "location": "Waterloo, Ontario",
-   "workplace": "On-site",
-   "posted": "2026-07-10",
-   "first_seen": "2026-11-02",
-   "pay": "",
-   "experience": "",
-   "level": "",
-   "source": "Lever",
-   "link": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b/apply"
   },
   {
    "id": "ff3f3e3b8d",
