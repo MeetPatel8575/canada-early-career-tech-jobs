@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 11:36 UTC",
- "count": 306,
+ "updated": "2026-11-24 13:03 UTC",
+ "count": 311,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -51,6 +51,38 @@
    "link": "https://www.linkedin.com/jobs/view/4494310308"
   },
   {
+   "id": "4e86fc7537",
+   "title": "Associate Java Full-Stack Developer",
+   "company": "Priceline.com",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, ON, Canada",
+   "workplace": "Hybrid",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-24",
+   "pay": "CAD 85,000 - 100,000 yearly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://priceline.wd1.myworkdayjobs.com/en-US/Priceline/job/Toronto/Associate-Java-Full-Stack-Developer_R5934"
+  },
+  {
+   "id": "db76c189db",
+   "title": "Full Stack AI-Native Engineer",
+   "company": "Accenture",
+   "city": "Mississauga",
+   "province": "ON",
+   "location": "Mississauga, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-17",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4478815356"
+  },
+  {
    "id": "884ea1b673",
    "title": "Développeur Front-End React.js (Mid)",
    "company": "Jalfa Tech",
@@ -83,6 +115,22 @@
    "link": "https://www.linkedin.com/jobs/view/4489186262"
   },
   {
+   "id": "cf2685989f",
+   "title": "Junior AI Developer",
+   "company": "Ericsson",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-03",
+   "pay": "",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4485784682"
+  },
+  {
    "id": "538bc0340d",
    "title": "Programmeur(euse)-analyste | Éditeur de logiciels | Transport",
    "company": "Kernel Solutions",
@@ -113,6 +161,38 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4493966078"
+  },
+  {
+   "id": "1fde0f1a04",
+   "title": "CHIEF FULLSTACK DEVELOPER",
+   "company": "National Bank of Canada",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, ON, Canada",
+   "workplace": "Hybrid",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://emplois.bnc.ca/en_CA/careers/Login?fromDetail=1&jobId=36199"
+  },
+  {
+   "id": "76e67b111e",
+   "title": "Full-Stack Web App Developer",
+   "company": "Zenith Medical Centre",
+   "city": "Gloucester",
+   "province": "ON",
+   "location": "Gloucester, ON, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-24",
+   "pay": "CAD 20 - 25 hourly",
+   "experience": "",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://ca.indeed.com/viewjob?jk=89d4beca1cc44c95"
   },
   {
    "id": "298d021ab0",
@@ -3971,22 +4051,6 @@
    "link": "https://www.linkedin.com/jobs/view/4490928571"
   },
   {
-   "id": "db76c189db",
-   "title": "Full Stack AI-Native Engineer",
-   "company": "Accenture",
-   "city": "Mississauga",
-   "province": "ON",
-   "location": "Mississauga, Ontario, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-16",
-   "first_seen": "2026-11-17",
-   "pay": "",
-   "experience": "2+ years",
-   "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4478815356"
-  },
-  {
    "id": "571beda5d0",
    "title": "Sharepoint .NET Developer",
    "company": "Apptoza Inc.",
@@ -4673,6 +4737,22 @@
    "level": "Junior / Entry",
    "source": "Greenhouse",
    "link": "https://stripe.com/jobs/search?gh_jid=8231439"
+  },
+  {
+   "id": "4ebb4aa4ab",
+   "title": "SVT/PV Engineer 1 - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-09-21",
+   "first_seen": "2026-11-16",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4461686222"
   },
   {
    "id": "8bc92b9412",
