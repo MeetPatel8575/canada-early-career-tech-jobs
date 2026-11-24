@@ -2,9 +2,9 @@
 
 Junior, new grad, entry-level, intern and co-op software, data and IT roles in Canada, with a focus on Kitchener-Waterloo-Cambridge and the Greater Toronto Area. Many come straight from company careers pages, including small local companies that don't post on LinkedIn.
 
-**307 open roles** · updated 2026-11-24 08:49 UTC · 🆕 = first seen in the last 48 hours
+**306 open roles** · updated 2026-11-24 11:36 UTC · 🆕 = first seen in the last 48 hours
 
-- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (18) · [Greater Toronto Area](#greater-toronto-area) (103) · [Remote in Canada](#remote-in-canada) (26) · [Elsewhere in Canada](#elsewhere-in-canada) (160)
+- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (18) · [Greater Toronto Area](#greater-toronto-area) (102) · [Remote in Canada](#remote-in-canada) (26) · [Elsewhere in Canada](#elsewhere-in-canada) (160)
 - Spreadsheet: [`jobs.csv`](jobs.csv) · JSON: [`jobs.json`](jobs.json) · recently closed: [`archive.csv`](archive.csv)
 - Google Sheets: in an empty sheet, type `=IMPORTDATA("https://raw.githubusercontent.com/MeetPatel8575/canada-early-career-tech-jobs/main/jobs.csv")` in cell A1. It refreshes about every hour.
 
@@ -136,7 +136,6 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Stripe | Software Engineer, Intern (Summer or Winter) | Toronto, ON | 2026-08-31 |  | Greenhouse | [Apply](https://stripe.com/jobs/search?gh_jid=8130805) |
 | Stripe | Software Engineer, New Grad | Toronto, ON | 2026-08-31 |  | Greenhouse | [Apply](https://stripe.com/jobs/search?gh_jid=8157838) |
 | Konrad | Mobile Developer (Entry Level) | Toronto, ON | 2026-08-25 |  | Company careers page | [Apply](https://www.konrad.com/careers/job/mobile-developer-entry-level_7976082003) |
-| Pinterest | Software Engineer, iOS | Toronto, ON | 2025-12-12 |  | Greenhouse | [Apply](https://www.pinterestcareers.com/jobs?gh_jid=6922682) |
 | Tenstorrent | Software Engineer, Scale Out | Toronto, ON | 2024-08-19 |  | Greenhouse | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/4484179007) |
 | Tenstorrent | Software Engineer, Acceleration Kernel Development | Toronto, ON | 2024-07-23 |  | Greenhouse | [Apply](https://job-boards.greenhouse.io/tenstorrent/jobs/4155609007) |
 | Konrad | Software Developer (Entry Level) | Toronto, ON | 2024-02-15 |  | Company careers page | [Apply](https://www.konrad.com/careers/job/software-developer-entry-level_5893240003) |
@@ -337,4 +336,4 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | mthree Recruiting Portal | Junior Java Developer | Halifax, NS | 2026-09-03 |  | Company careers page | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4710618006) |
 | Databricks | Software Engineer - New Grad (2027 Start) | Vancouver, BC | 2023-08-04 |  | Greenhouse | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) |
 
-683 roles that closed in the last 60 days are in [`archive.csv`](archive.csv).
+684 roles that closed in the last 60 days are in [`archive.csv`](archive.csv).
