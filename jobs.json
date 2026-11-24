@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-24 14:22 UTC",
- "count": 313,
+ "updated": "2026-11-24 15:54 UTC",
+ "count": 315,
  "jobs": [
   {
    "id": "e2f2a2e388",
@@ -67,20 +67,20 @@
    "link": "https://priceline.wd1.myworkdayjobs.com/en-US/Priceline/job/Toronto/Associate-Java-Full-Stack-Developer_R5934"
   },
   {
-   "id": "08cadf3ea7",
-   "title": "Full Stack Developer",
-   "company": "Moment Energy",
-   "city": "Vancouver",
-   "province": "BC",
-   "location": "Vancouver, BC, Canada",
+   "id": "c50b1a75f7",
+   "title": "Software Engineering - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
    "workplace": "On-site",
    "posted": "2026-11-24",
-   "first_seen": "2026-11-23",
-   "pay": "CAD 70,000 - 100,100 yearly",
-   "experience": "2+ years",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
    "level": "Junior / Entry",
-   "source": "Indeed",
-   "link": "https://grnh.se/acs1bedp9us"
+   "source": "Workday",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171"
   },
   {
    "id": "db76c189db",
@@ -177,6 +177,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4485784682"
+  },
+  {
+   "id": "24b8e91195",
+   "title": "Software Analyst",
+   "company": "Hitachi Rail",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-03",
+   "pay": "",
+   "experience": "1+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4476087696"
   },
   {
    "id": "538bc0340d",
@@ -417,6 +433,22 @@
    "level": "",
    "source": "Indeed",
    "link": "https://ca.indeed.com/viewjob?jk=8438d3d40485196a"
+  },
+  {
+   "id": "08cadf3ea7",
+   "title": "Full Stack Developer",
+   "company": "Moment Energy",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, BC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-23",
+   "pay": "CAD 70,000 - 100,100 yearly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://grnh.se/acs1bedp9us"
   },
   {
    "id": "56e55eea3a",
@@ -689,22 +721,6 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4487872447"
-  },
-  {
-   "id": "0fbcfa4b22",
-   "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
-   "company": "Magnetforensics",
-   "city": "Waterloo",
-   "province": "ON",
-   "location": "Waterloo, Ontario",
-   "workplace": "On-site",
-   "posted": "2026-11-22",
-   "first_seen": "2026-11-02",
-   "pay": "",
-   "experience": "",
-   "level": "",
-   "source": "Lever",
-   "link": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b/apply"
   },
   {
    "id": "22c3d96064",
@@ -4945,6 +4961,22 @@
    "level": "Junior / Entry",
    "source": "Company careers page",
    "link": "https://www.konrad.com/careers/job/mobile-developer-entry-level_7976082003"
+  },
+  {
+   "id": "0fbcfa4b22",
+   "title": "Software Engineer - Magnet One (front-end, back-end, or full-stack opportunities)",
+   "company": "Magnetforensics",
+   "city": "Waterloo",
+   "province": "ON",
+   "location": "Waterloo, Ontario",
+   "workplace": "On-site",
+   "posted": "2026-07-10",
+   "first_seen": "2026-11-02",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Lever",
+   "link": "https://jobs.lever.co/magnetforensics/39181882-5eae-41c6-b494-c3d6791c978b/apply"
   },
   {
    "id": "ff3f3e3b8d",
