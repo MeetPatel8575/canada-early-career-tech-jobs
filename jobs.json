@@ -1,7 +1,55 @@
 {
- "updated": "2026-11-25 00:36 UTC",
+ "updated": "2026-11-25 03:50 UTC",
  "count": 336,
  "jobs": [
+  {
+   "id": "2e20a2b66a",
+   "title": "Analyste informatique - UIPATH",
+   "company": "Hydro Québec",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montreal, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-24",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494717664"
+  },
+  {
+   "id": "3fcec9ecd5",
+   "title": "AI LLM Analyst",
+   "company": "Accenture",
+   "city": "Mississauga",
+   "province": "ON",
+   "location": "Mississauga, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-15",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4481157896"
+  },
+  {
+   "id": "5c352446b0",
+   "title": "AI/ML & Data Platform Specialist- Snowflake/ Databricks",
+   "company": "Accenture",
+   "city": "Mississauga",
+   "province": "ON",
+   "location": "Mississauga, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-15",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4481163656"
+  },
   {
    "id": "2197345443",
    "title": "Software Engineer, DevOps",
@@ -211,22 +259,6 @@
    "link": "https://www.linkedin.com/jobs/view/4493053463"
   },
   {
-   "id": "2e20a2b66a",
-   "title": "Analyste informatique - UIPATH",
-   "company": "Hydro Québec",
-   "city": "Montreal",
-   "province": "QC",
-   "location": "Montreal, Quebec, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-24",
-   "pay": "",
-   "experience": "",
-   "level": "",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4494717664"
-  },
-  {
    "id": "3167a93273",
    "title": "un(e) Développeur(se), solutions technologiques / Tech Solutions Developer",
    "company": "Manmade",
@@ -257,6 +289,22 @@
    "level": "Junior / Entry",
    "source": "Company careers page",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
+  },
+  {
+   "id": "d72f27935d",
+   "title": "Data Engineering Intern",
+   "company": "Canadian Solar",
+   "city": "Kitchener",
+   "province": "ON",
+   "location": "Kitchener, ON",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-19",
+   "pay": "",
+   "experience": "",
+   "level": "Internship",
+   "source": "Workday",
+   "link": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603"
   },
   {
    "id": "d43e4222ef",
@@ -337,22 +385,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4463076877"
-  },
-  {
-   "id": "29a7e6ef25",
-   "title": "Embedded Software Engineer - New Grad",
-   "company": "Ciena",
-   "city": "Ottawa",
-   "province": "ON",
-   "location": "Ottawa",
-   "workplace": "On-site",
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-11",
-   "pay": "CAD 72,000 - 115,000 yearly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Company careers page",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571"
   },
   {
    "id": "884ea1b673",
@@ -2579,22 +2611,6 @@
    "link": "https://inizio.wd3.myworkdayjobs.com/Ashfield_Canada/job/Montreal/Software-Developer---SQL---Application-Support--Global-_JR37110"
   },
   {
-   "id": "d72f27935d",
-   "title": "Data Engineering Intern",
-   "company": "Canadian Solar",
-   "city": "Kitchener",
-   "province": "ON",
-   "location": "Kitchener, ON",
-   "workplace": "On-site",
-   "posted": "2026-11-19",
-   "first_seen": "2026-11-19",
-   "pay": "",
-   "experience": "",
-   "level": "Internship",
-   "source": "Workday",
-   "link": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603"
-  },
-  {
    "id": "75180347c8",
    "title": "Freelance PLC Programmer",
    "company": "SNBB Solutions Inc.",
@@ -4691,20 +4707,20 @@
    "link": "https://job-boards.greenhouse.io/stackadapt/jobs/4509035009"
   },
   {
-   "id": "3fcec9ecd5",
-   "title": "AI LLM Analyst",
-   "company": "Accenture",
-   "city": "Mississauga",
+   "id": "29a7e6ef25",
+   "title": "Embedded Software Engineer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
    "province": "ON",
-   "location": "Mississauga, Ontario, Canada",
+   "location": "Ottawa",
    "workplace": "On-site",
    "posted": "2026-11-16",
-   "first_seen": "2026-11-15",
-   "pay": "",
-   "experience": "2+ years",
+   "first_seen": "2026-11-11",
+   "pay": "CAD 72,000 - 115,000 yearly",
+   "experience": "",
    "level": "Junior / Entry",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4481157896"
+   "source": "Company careers page",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571"
   },
   {
    "id": "2733a80bf6",
@@ -5361,22 +5377,6 @@
    "level": "Junior / Entry",
    "source": "Company careers page",
    "link": "https://www.konrad.com/careers/job/software-developer-entry-level_5893240003"
-  },
-  {
-   "id": "a2bbd5c39a",
-   "title": "Software Engineer - New Grad (2027 Start)",
-   "company": "Databricks",
-   "city": "Vancouver",
-   "province": "BC",
-   "location": "Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada",
-   "workplace": "On-site",
-   "posted": "2023-08-04",
-   "first_seen": "2026-11-02",
-   "pay": "",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Greenhouse",
-   "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002"
   }
  ]
 }
