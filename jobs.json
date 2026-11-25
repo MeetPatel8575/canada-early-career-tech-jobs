@@ -1,7 +1,23 @@
 {
- "updated": "2026-11-25 05:06 UTC",
- "count": 336,
+ "updated": "2026-11-25 06:19 UTC",
+ "count": 340,
  "jobs": [
+  {
+   "id": "50ebcece53",
+   "title": "Junior Software Developer",
+   "company": "Toast",
+   "city": "Cobourg",
+   "province": "ON",
+   "location": "Cobourg, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "pay": "USD 60,000 - 65,000 yearly",
+   "experience": "0+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4493053860"
+  },
   {
    "id": "2e20a2b66a",
    "title": "Analyste informatique - UIPATH",
@@ -49,6 +65,38 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4481163656"
+  },
+  {
+   "id": "063f9b4709",
+   "title": "Analyste informatique",
+   "company": "Hydro Québec",
+   "city": "Quebec City",
+   "province": "QC",
+   "location": "Varennes, Quebec, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-09",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4487674939"
+  },
+  {
+   "id": "a88b67cc38",
+   "title": "Geomatics Technician",
+   "company": "Canadian Armed Forces | Forces armées canadiennes",
+   "city": "Toronto",
+   "province": "ON",
+   "location": "Toronto, Ontario, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-04",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4451218861"
   },
   {
    "id": "2197345443",
@@ -419,6 +467,22 @@
    "link": "https://www.linkedin.com/jobs/view/4489186262"
   },
   {
+   "id": "bbac94ab49",
+   "title": "Software Developer (Backend SaaS)",
+   "company": "Canonical",
+   "city": "Canada",
+   "province": "",
+   "location": "Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-05",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4433373543"
+  },
+  {
    "id": "d34a75f63b",
    "title": "Software Design/Engineer - New Grad",
    "company": "Ciena",
@@ -465,22 +529,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4374443018"
-  },
-  {
-   "id": "a88b67cc38",
-   "title": "Geomatics Technician",
-   "company": "Canadian Armed Forces | Forces armées canadiennes",
-   "city": "Toronto",
-   "province": "ON",
-   "location": "Toronto, Ontario, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-04",
-   "pay": "",
-   "experience": "",
-   "level": "",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4451218861"
   },
   {
    "id": "d8222bbcb2",
@@ -545,6 +593,22 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4460374807"
+  },
+  {
+   "id": "26d70dd225",
+   "title": "Junior Software QA Developer",
+   "company": "Delta Intelligent Building Technologies (Canada) Inc.",
+   "city": "Surrey",
+   "province": "BC",
+   "location": "Surrey, BC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-23",
+   "first_seen": "2026-11-25",
+   "pay": "CAD 50,000 - 65,000 yearly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Indeed",
+   "link": "https://apply.clearcompany.com/deltacontrols?jobId=20e05114-ed9b-57ee-89f7-d78304e94b8b"
   },
   {
    "id": "538bc0340d",
@@ -713,7 +777,7 @@
    "city": "Richmond",
    "province": "BC",
    "location": "Richmond, British Columbia, Canada",
-   "workplace": "Hybrid",
+   "workplace": "On-site",
    "posted": "2026-11-23",
    "first_seen": "2026-11-24",
    "pay": "",
