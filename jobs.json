@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-25 06:19 UTC",
- "count": 340,
+ "updated": "2026-11-25 07:19 UTC",
+ "count": 343,
  "jobs": [
   {
    "id": "50ebcece53",
@@ -17,6 +17,22 @@
    "level": "Junior / Entry",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4493053860"
+  },
+  {
+   "id": "2941591613",
+   "title": "Back End Developer (AI Infrastructure)",
+   "company": "Alignerr",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, British Columbia, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-25",
+   "first_seen": "2026-11-25",
+   "pay": "USD 20 - 100 hourly",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494468746"
   },
   {
    "id": "2e20a2b66a",
@@ -145,6 +161,22 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4494749422"
+  },
+  {
+   "id": "6bab2361a0",
+   "title": "AI/ML Engineer — Agentic AI Systems",
+   "company": "Kaseya",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, British Columbia, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-25",
+   "pay": "",
+   "experience": "",
+   "level": "",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4494361881"
   },
   {
    "id": "e2f2a2e388",
@@ -483,6 +515,22 @@
    "link": "https://www.linkedin.com/jobs/view/4433373543"
   },
   {
+   "id": "01e60273e1",
+   "title": "Engineer - Software Support Python",
+   "company": "Quest Global",
+   "city": "Vancouver",
+   "province": "BC",
+   "location": "Vancouver, British Columbia, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-24",
+   "first_seen": "2026-11-05",
+   "pay": "CAD 80,000 - 120,000 yearly",
+   "experience": "2+ years",
+   "level": "Junior / Entry",
+   "source": "Linkedin",
+   "link": "https://www.linkedin.com/jobs/view/4485027303"
+  },
+  {
    "id": "d34a75f63b",
    "title": "Software Design/Engineer - New Grad",
    "company": "Ciena",
@@ -761,7 +809,7 @@
    "city": "Canada",
    "province": "",
    "location": "Canada",
-   "workplace": "On-site",
+   "workplace": "Remote",
    "posted": "2026-11-23",
    "first_seen": "2026-11-24",
    "pay": "",

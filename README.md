@@ -2,9 +2,9 @@
 
 Junior, new grad, entry-level, intern and co-op software, data and IT roles in Canada, with a focus on Kitchener-Waterloo-Cambridge and the Greater Toronto Area. Many come straight from company careers pages, including small local companies that don't post on LinkedIn.
 
-**340 open roles** · updated 2026-11-25 06:19 UTC · 🆕 = first seen in the last 48 hours
+**343 open roles** · updated 2026-11-25 07:19 UTC · 🆕 = first seen in the last 48 hours
 
-- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (19) · [Greater Toronto Area](#greater-toronto-area) (110) · [Remote in Canada](#remote-in-canada) (28) · [Elsewhere in Canada](#elsewhere-in-canada) (183)
+- [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (19) · [Greater Toronto Area](#greater-toronto-area) (110) · [Remote in Canada](#remote-in-canada) (29) · [Elsewhere in Canada](#elsewhere-in-canada) (185)
 - Spreadsheet: [`jobs.csv`](jobs.csv) · JSON: [`jobs.json`](jobs.json) · recently closed: [`archive.csv`](archive.csv)
 - Google Sheets: in an empty sheet, type `=IMPORTDATA("https://raw.githubusercontent.com/MeetPatel8575/canada-early-career-tech-jobs/main/jobs.csv")` in cell A1. It refreshes about every hour.
 
@@ -155,6 +155,7 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 |---|---|---|---|---|---|---|
 | Super.com | 🆕 Data Engineering Intern | Canada (Remote) | 2026-11-24 |  | Company careers page | [Apply](https://jobs.ashbyhq.com/super.com/5251792e-093d-42c6-ae9e-08c656e90807/application) |
 | AfterQuery Experts | 🆕 Full Stack Engineer | Vancouver, BC (Remote) | 2026-11-23 | USD 50 - 100 hourly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4493602430) |
+| Simplify Software Experts LLC/ Simpli Software Solutions Inc | 🆕 iOS Developer | Canada (Remote) | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494013109) |
 | Brampton Stars Learning Academy | 🆕 Full Stack Developer | Remote (Canada) (Remote) | 2026-11-23 | CAD 19 hourly | Indeed | [Apply](https://ca.indeed.com/viewjob?jk=8438d3d40485196a) |
 | Harbor | 🆕 Salesforce Developer | Remote (Canada) (Remote) | 2026-11-21 |  | Indeed | [Apply](https://grnh.se/340yreft7us) |
 | Affirm | Software Engineer I, Fullstack (Disputes Platform) | Victoria, BC (Remote) | 2026-11-20 |  | Greenhouse | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8196691003) |
@@ -187,9 +188,11 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Company | Role | Location | Posted | Pay | Source | |
 |---|---|---|---|---|---|---|
 | Toast | 🆕 Junior Software Developer | Cobourg, ON | 2026-11-25 | USD 60,000 - 65,000 yearly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4493053860) |
+| Alignerr | 🆕 Back End Developer (AI Infrastructure) | Vancouver, BC | 2026-11-25 | USD 20 - 100 hourly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494468746) |
 | Hydro Québec | 🆕 Analyste informatique - UIPATH | Montreal, QC | 2026-11-25 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494717664) |
 | Hydro Québec | Analyste informatique | Quebec City, QC | 2026-11-25 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4487674939) |
 | Wave | 🆕 Software Engineer, DevOps | Canada | 2026-11-24 | <div> <div>Final compensation is determined based on experience, expertise, and role alignment. Most candidates are hired within the middle of the range, with the upper end reserved for those bringing exceptional depth, impact, and immediate autonomy.</div> <div>&nbsp;</div> <div><strong>We also offer:</strong></div> <ul style="list-style-type: disc;"> <li>Bonus Structure</li> <li>Employer-paid Benefits Plan</li> <li>Health &amp; Wellness Flex Account</li> <li>Wellness Days</li> <li>Paid Holiday Shutdown</li> <li>Wave Days (extra vacation days in the summer)</li> </ul> <div>&nbsp;</div> <div><a href="https://www.waveapps.com/about-us/culture">Visit our site</a>&nbsp;to find out more about life at Wave!</div> </div> | Company careers page | [Apply](https://jobs.lever.co/waveapps/3d167795-9544-4288-99ca-077b2accd5a6/apply) |
+| Kaseya | 🆕 AI/ML Engineer — Agentic AI Systems | Vancouver, BC | 2026-11-24 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494361881) |
 | University of British Columbia | 🆕 Software Developer | Vancouver, BC | 2026-11-24 | CAD 6,632 - 9,533 monthly | Indeed | [Apply](https://ubc.wd10.myworkdayjobs.com/en-US/ubcstaffjobs/job/UBC-Hospital-Site---Vancouver-BC-Canada/Software-Developer_JR26751-1) |
 | Ciena | 🆕 Software Engineering - New Grad | Ottawa, ON | 2026-11-24 |  | Workday | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171) |
 | St-Amour | 🆕 Ingénieur Full Stack/Ingénieure Full Stack | Quebec City, QC | 2026-11-24 | CAD 110,000 - 130,000 yearly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494149962) |
@@ -203,6 +206,7 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Alithya | Développeur ou développeuse full-stack | Montreal, QC | 2026-11-24 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4463076877) |
 | Jalfa Tech | Développeur Front-End React.js (Mid) | Quebec City, QC | 2026-11-24 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4489600034) |
 | Canonical | Software Developer (Backend SaaS) | Canada | 2026-11-24 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4433373543) |
+| Quest Global | Engineer - Software Support Python | Vancouver, BC | 2026-11-24 | CAD 80,000 - 120,000 yearly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4485027303) |
 | Ciena | Software Design/Engineer - New Grad | Ottawa, ON | 2026-11-24 |  | Workday | [Apply](https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Design-Engineer---New-Grad_R032059) |
 | Spait Infotech | Software Developer | Canada | 2026-11-24 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4486511050) |
 | Marea | Développeur en IA - Québec / AI Developer - Quebec | Quebec City, QC | 2026-11-24 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4374443018) |
@@ -215,7 +219,6 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Polaris Motion | 🆕 AI-Enabled .NET UI/UX Software Developer - Advanced Motion Control & Visualization | Victoria, BC | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494046641) |
 | Ville de Québec | 🆕 Technicienne-analyste ou technicien-analyste en informatique (programmeur-analyste .net - dynamics 365) | Quebec City, QC | 2026-11-23 | CAD 66,600 - 98,609 yearly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4493670133) |
 | Artefact | 🆕 AI Applied Engineer | Montreal, QC | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4493600642) |
-| Simplify Software Experts LLC/ Simpli Software Solutions Inc | 🆕 iOS Developer | Canada | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494013109) |
 | Boston Pizza International Inc | 🆕 Omnichannel Menu Technician (Temporary) | Richmond, BC | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494045363) |
 | Loto-Québec | 🆕 Stage - service corpo | Montreal, QC | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4493932219) |
 | Revenu Québec | 🆕 Stagiaire en développement informatique | Quebec City, QC | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4493664203) |
@@ -370,4 +373,4 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | mthree Recruiting Portal | Développeur génie logiciel / Junior Software Developer – Canada (Montreal) | Montreal, QC | 2026-09-14 |  | Company careers page | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4713052006) |
 | mthree Recruiting Portal | Junior Java Developer | Halifax, NS | 2026-09-03 |  | Company careers page | [Apply](https://job-boards.greenhouse.io/mthreerecruitingportal/jobs/4710618006) |
 
-676 roles that closed in the last 60 days are in [`archive.csv`](archive.csv).
+675 roles that closed in the last 60 days are in [`archive.csv`](archive.csv).
