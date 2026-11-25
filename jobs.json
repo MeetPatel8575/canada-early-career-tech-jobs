@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25 20:19 UTC",
+ "updated": "2026-11-25 21:20 UTC",
  "count": 368,
  "jobs": [
   {
@@ -803,22 +803,6 @@
    "link": "https://www.linkedin.com/jobs/view/4493053463"
   },
   {
-   "id": "3167a93273",
-   "title": "un(e) Développeur(se), solutions technologiques / Tech Solutions Developer",
-   "company": "Manmade",
-   "city": "Montreal",
-   "province": "QC",
-   "location": "Montreal, Quebec, Canada",
-   "workplace": "On-site",
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-23",
-   "pay": "",
-   "experience": "2+ years",
-   "level": "",
-   "source": "Linkedin",
-   "link": "https://www.linkedin.com/jobs/view/4493663193"
-  },
-  {
    "id": "d379cef437",
    "title": "Embedded Software Developer - New Grad",
    "company": "Ciena",
@@ -833,22 +817,6 @@
    "level": "Junior / Entry",
    "source": "Company careers page",
    "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Developer---New-Grad_R032147"
-  },
-  {
-   "id": "d72f27935d",
-   "title": "Data Engineering Intern",
-   "company": "Canadian Solar",
-   "city": "Kitchener",
-   "province": "ON",
-   "location": "Kitchener, ON",
-   "workplace": "On-site",
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-19",
-   "pay": "",
-   "experience": "",
-   "level": "Internship",
-   "source": "Workday",
-   "link": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603"
   },
   {
    "id": "d43e4222ef",
@@ -945,22 +913,6 @@
    "level": "",
    "source": "Linkedin",
    "link": "https://www.linkedin.com/jobs/view/4463076877"
-  },
-  {
-   "id": "29a7e6ef25",
-   "title": "Embedded Software Engineer - New Grad",
-   "company": "Ciena",
-   "city": "Ottawa",
-   "province": "ON",
-   "location": "Ottawa",
-   "workplace": "On-site",
-   "posted": "2026-11-24",
-   "first_seen": "2026-11-11",
-   "pay": "CAD 72,000 - 115,000 yearly",
-   "experience": "",
-   "level": "Junior / Entry",
-   "source": "Company careers page",
-   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571"
   },
   {
    "id": "884ea1b673",
@@ -3315,6 +3267,22 @@
    "link": "https://inizio.wd3.myworkdayjobs.com/Ashfield_Canada/job/Montreal/Software-Developer---SQL---Application-Support--Global-_JR37110"
   },
   {
+   "id": "d72f27935d",
+   "title": "Data Engineering Intern",
+   "company": "Canadian Solar",
+   "city": "Kitchener",
+   "province": "ON",
+   "location": "Kitchener, ON",
+   "workplace": "On-site",
+   "posted": "2026-11-19",
+   "first_seen": "2026-11-19",
+   "pay": "",
+   "experience": "",
+   "level": "Internship",
+   "source": "Workday",
+   "link": "https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Kitchener-ON/Data-Engineering-Intern_10001603"
+  },
+  {
    "id": "75180347c8",
    "title": "Freelance PLC Programmer",
    "company": "SNBB Solutions Inc.",
@@ -5235,6 +5203,22 @@
    "link": "https://job-boards.greenhouse.io/stackadapt/jobs/4509035009"
   },
   {
+   "id": "29a7e6ef25",
+   "title": "Embedded Software Engineer - New Grad",
+   "company": "Ciena",
+   "city": "Ottawa",
+   "province": "ON",
+   "location": "Ottawa",
+   "workplace": "On-site",
+   "posted": "2026-11-16",
+   "first_seen": "2026-11-11",
+   "pay": "CAD 72,000 - 115,000 yearly",
+   "experience": "",
+   "level": "Junior / Entry",
+   "source": "Company careers page",
+   "link": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Embedded-Software-Engineer---New-Grad_R031571"
+  },
+  {
    "id": "2733a80bf6",
    "title": "Junior Full-Stack .NET Developer",
    "company": "Robert Half",
@@ -5345,6 +5329,22 @@
    "level": "Junior / Entry",
    "source": "Workday",
    "link": "https://bmo.wd3.myworkdayjobs.com/External/job/Toronto-ON-CAN/Software-Developer_R260028581"
+  },
+  {
+   "id": "c5af4929e6",
+   "title": "Développeur(se) solutions technologiques / Tech Solutions Developer",
+   "company": "Manmade",
+   "city": "Montreal",
+   "province": "QC",
+   "location": "Montréal, QC, Canada",
+   "workplace": "On-site",
+   "posted": "2026-11-06",
+   "first_seen": "2026-11-09",
+   "pay": "",
+   "experience": "2+ years",
+   "level": "",
+   "source": "Indeed",
+   "link": "https://secure.ukgready.ca/ta/6213208.careers?ShowJob=520220674"
   },
   {
    "id": "205eaa4790",
