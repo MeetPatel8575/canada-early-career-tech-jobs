@@ -2,7 +2,7 @@
 
 Junior, new grad, entry-level, intern and co-op software, data and IT roles in Canada, with a focus on Kitchener-Waterloo-Cambridge and the Greater Toronto Area. Many come straight from company careers pages, including small local companies that don't post on LinkedIn.
 
-**336 open roles** · updated 2026-11-25 03:50 UTC · 🆕 = first seen in the last 48 hours
+**336 open roles** · updated 2026-11-25 05:06 UTC · 🆕 = first seen in the last 48 hours
 
 - [Kitchener-Waterloo-Cambridge](#kitchener-waterloo-cambridge) (19) · [Greater Toronto Area](#greater-toronto-area) (110) · [Remote in Canada](#remote-in-canada) (28) · [Elsewhere in Canada](#elsewhere-in-canada) (179)
 - Spreadsheet: [`jobs.csv`](jobs.csv) · JSON: [`jobs.json`](jobs.json) · recently closed: [`archive.csv`](archive.csv)
@@ -217,7 +217,7 @@ Junior, new grad, entry-level, intern and co-op software, data and IT roles in C
 | Revenu Québec | 🆕 Stagiaire en développement informatique | Quebec City, QC | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4493664203) |
 | Trackunit | 🆕 Software Engineer | London, ON | 2026-11-23 |  | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494014051) |
 | Profile Tool & Design Inc | 🆕 CNC Machinist/Programmer | Barrie | 2026-11-23 | CAD 25 - 30 hourly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010333332849) |
-| Canadian Niagara Hotels | 🆕 BI Developer - Revenue and Analytics | Niagara Falls | 2026-11-23 | CAD 80,000 - 90,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010333552409) |
+| Canadian Niagara Hotels | 🆕 BI Developer - Revenue and Analytics | Niagara Falls, ON | 2026-11-23 | CAD 80,000 - 90,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010333552409) |
 | samdesk | 🆕 Junior Backend Engineer - Features Team | Edmonton, AB | 2026-11-23 | CAD 70,000 - 80,000 yearly | Linkedin | [Apply](https://www.linkedin.com/jobs/view/4494063409) |
 | Powertec Electric Inc | 🆕 Junior Full-Stack Developer | Winnipeg, MB | 2026-11-23 | CAD 60,000 - 70,000 yearly | Glassdoor | [Apply](https://www.glassdoor.ca/job-listing/j?jl=1010333348865) |
 | Domain Traffic Media LTD. | 🆕 Software Engineer | Vancouver, BC | 2026-11-23 | CAD 53 - 55 hourly | Indeed | [Apply](https://ca.indeed.com/viewjob?jk=8d1904a64b1ec073) |
